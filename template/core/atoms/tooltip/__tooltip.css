@@ -1,0 +1,51 @@
+.--svg__tooltip-arrrow-top {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg width='33' height='12' viewBox='0 0 33 12' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M22.9167 6C19.652 1.89092 18.3333 0 16.5 0C14.6667 0 13.348 1.89092 10.0833 6C6.41667 10.6154 5.5 12 0 12L16.5 12L33 12C27.5 12 26.5833 10.6154 22.9167 6' fill='white'/%3E%3C/svg%3E");
+}
+
+.tooltip {
+
+}
+
+.tooltip__block {
+    position: absolute;
+    opacity: 0;
+    transition: all ease .24s;
+    pointer-events: none;
+}
+
+.tooltip__list {
+    background: #FFFFFF;
+    box-shadow: 0px 1rem 3rem rgba(0, 0, 0, 0.08);
+    border-radius: .5rem;
+    width: 100%;
+    padding-bottom: 2rem;
+}
+
+.tooltip.--open-bottom .tooltip__block{
+    transform-origin: bottom center;
+    transform: translateY(1rem) scale(0.90);
+}
+
+
+.tooltip.action-hover:hover .tooltip__block, .tooltip.is-open .tooltip__block {
+	opacity: 1;
+	transform: scale(1) translateY(0rem);
+	pointer-events: painted;
+}
+
+.tooltip__arrow-wrap {
+    position: absolute;
+    top: 0;
+    transform: translateY(-100%);
+    width: 100%;
+}
+
+.tooltip__arrow {
+    width: 2rem;
+    height: .75rem;
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+}
+.tooltip__wrap {
+    position: relative;
+}

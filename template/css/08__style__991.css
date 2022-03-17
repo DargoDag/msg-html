@@ -1,0 +1,75 @@
+@media screen and (max-width: 990px) {
+
+    .main-content {
+        /* margin-top: 7.5rem; */
+    }
+
+    .content__page-banner.--main .type-carusel__nav {
+        left: unset;
+        bottom: 3rem;
+        justify-content: center;
+    }
+
+    .content__banner-title {
+        font-size: 3rem !important;
+        line-height: 3.5rem !important;
+    }
+
+    .content__banner-desc {
+        margin-left: 0;
+        margin-top: .5rem !important;
+        border-left: none !important;
+    }
+
+    .content__banner-sub-wrap {
+        margin-bottom: 2rem;
+    }
+
+    .installment-items {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .content__installment-desc.--repayment {
+        padding: 2rem !important;
+    }
+
+    .installment-desc__label {
+        font-size: 3rem;
+        line-height: 3rem;
+    }
+
+    .scroll__top {
+        bottom: 6rem;
+    }
+
+    .content__page-banner.--used .center-wrap {
+        flex-direction: column;
+    }
+
+    .content__page-banner.--used .center-wrap {
+        flex-wrap: nowrap;
+    }
+    
+    .content__page-banner.--used .content__banner-img {
+        margin-top: 2rem;
+        max-width: 100%;
+        height: 20rem;
+    }
+    
+    .content__page-banner.--used .content__banner-info {
+        max-width: 100%;
+    }
+
+    .desc-items.--used {
+        flex-direction: column;
+    }
+    
+    .desc-items.--used .desc-item {
+        max-width: 100%;
+    }
+    
+    .desc-items.--used .desc-item:last-child {
+        margin-top: 2rem;
+    }
+    
+}

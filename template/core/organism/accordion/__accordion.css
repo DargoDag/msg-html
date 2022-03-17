@@ -1,0 +1,44 @@
+.accordion__desc {
+    display: none;
+}
+
+
+
+/* media */
+
+    @media screen and (max-width: 1680px) {  
+
+    }
+
+    @media screen and (max-width: 1440px) {  
+
+    }
+
+    @media screen and (max-width: 1366px) {  
+
+    }
+
+    @media screen and (max-width: 1359px) {  
+
+    }
+
+    @media screen and (max-width: 1199px) {  
+
+    }
+
+    @media screen and (max-width: 1024px) {  
+
+
+    }
+
+    @media screen and (max-width: 991px) {  
+        
+    }
+
+    @media screen and (max-width: 768px) {  
+
+    }
+
+    @media screen and (max-width: 640px) {  
+
+    }

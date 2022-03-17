@@ -1,0 +1,329 @@
+@media screen and (max-width: 640px) {  
+
+    h3, .h3 {
+        font-size: 2rem;
+        line-height: 2.5rem;
+    }
+
+    .center-wrap {
+        padding: 0 1.25rem;
+    }
+
+    .content__page-banner.--main .type-carusel__nav {
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        left: 0;
+    }
+
+    .content__title {
+        font-size: 3rem;
+        line-height: 3.5rem;
+    }
+
+    .content__head-title {
+        justify-content: space-between;
+    }
+
+    .content__sub-title {
+        font-size: 2.5rem;
+        line-height: 3rem;
+    }
+
+    .content__head-btns {
+        margin-top: 1.5rem;
+        justify-content: space-between;
+        width: 100%;
+    }
+
+    .content__main-wrap {
+        padding-top: 2rem !important;
+    }
+
+    .content__page-banner {
+        overflow: visible;
+    }
+
+    .content__page-banner {
+        overflow: visible;
+    }
+
+    .content__search-wrap2 {
+        padding: 3rem 0 0 0 !important;
+    }
+
+    .content__page-banner {
+    }
+
+    .content__banner-sub-wrap {
+        margin: 0;
+        width: 100%;
+    }
+
+    .content__banner-wrap {
+        position: relative;
+        padding: 2rem 0;
+    }
+
+    .content__banner-img {
+        position: absolute;
+        height: 100%;
+    }
+
+    .content__main-wrap.--password {
+        padding: 6rem 0 4rem 0 !important;
+    }
+
+    .trade-in__sticky .tabs__btn:after {
+        display: none;
+    }
+
+    .content__main-wrap.--trade-in .content__title, .content__main-wrap.--vacancy .content__title, .content__main-wrap.--faq .content__title {
+        font-size: 3rem;
+        line-height: 3.5rem;
+    }
+
+    .content__main-wrap.--trade-in .content__title, .content__main-wrap.--vacancy .content__title, .content__main-wrap.--faq .content__title {
+        font-size: 3rem;
+        line-height: 3.5rem;
+    }
+    
+    .warranty__items {
+        gap: 1.5rem;
+    }
+    
+    .warranty-item {
+        padding: 2rem 0;
+    }
+
+    .content__main-wrap.--delivery .content__title {
+        font-size: 3rem;
+        line-height: 3.5rem;
+    }
+    
+    .delivery__items {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+    
+    .delivery-item {
+        padding: 1.5rem !important;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .type-carusel__head {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        align-items: flex-start;
+    }
+    
+    .type-carusel__nav {
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    .content__search-wrap {
+        padding: 4rem 0;
+    }
+    
+    .content__search-value {
+        font-size: 3rem;
+        line-height: 3.5rem;
+    }
+
+    .desc-item:after {
+        display: none;
+    }
+    
+    .content__banner-desc-items .desc-item {
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+    
+    .content__banner-desc-items {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .installment-desc__label {
+        font-size: 2.5rem !important;
+        line-height: 2.75rem !important;
+    }
+    
+    .installment-desc__desc {
+        margin-top: 2rem;
+    }
+    
+    .content__installment-desc.--granting {
+        padding-bottom: 2rem !important;
+    }
+    
+    .content__installment-items {
+        margin-top: 2rem !important;
+    }
+    
+    .installment-items {
+    grid-template-columns: 1fr;
+    }
+    
+    .installment-item {
+        height: auto;
+        padding: 1.5rem 0;
+    }
+    
+    .installment-items .installment-item {
+        margin: 0 !important;
+    }
+    
+    .banks-carousel .type-carusel__swiper {
+        height: auto !important;
+    }
+    
+    .content__installment-desc.--repayment {
+        padding: 1.5rem !important;
+    }
+
+    .content__main-wrap.--empty-basket .content__search-value {
+        font-size: 3rem;
+        line-height: 3.5rem;
+        text-align: center;
+    }
+
+    .content__search-items {
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+
+    .content__search-post-tilte {
+        text-align: center;
+    }
+    
+    .content__btns-wrap {
+        margin-top: 1.5rem !important;
+    }
+    
+    .content__btns-wrap>* {
+        width: 100%;
+    }
+
+    .content__page-banner.--test-drive .content__banner-desc {
+        margin-top: 1rem !important;
+    }
+    
+    .content__banner-video {
+        margin-top: 2rem;
+    }
+    
+    .test-drive-item {
+        padding: 1.5rem !important;
+    }
+    
+    .test-drive__items {
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+    
+    .test-drive__items>* {
+        margin: 0 !important;
+    }
+
+    .trade-in-item__desc:before {
+        display: none;
+    }
+    
+    .trade-in__form .trade-in__inputs-wrap {
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+    
+    .trade-in__input-wrap {
+        margin: 0 !important;
+        width: 100%;
+    }
+    
+    .trade-in__sticky {
+        padding: 1.5rem !important;
+    }
+    
+    .trade-in__selects-wrap {
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+    
+    .trade-in__select-wrap {
+        width: 100%;
+        margin: 0 !important;
+    }
+
+    .banner-item__bg-thumb {
+        display: none !important;
+    }
+
+    .banner-item__bg-thumb.--mob {
+        display: flex !important;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+
+    .content__banner-carousel .type-carusel__btns {
+        display: none;
+    }
+
+    .content__page-banner.--main .type-carusel__btn {
+        width: 3.5rem;
+        height: 3.5rem;
+    }
+
+    .content__page-banner.--main {
+        border-radius: 1.5rem 1.5rem 0 0;
+        overflow: hidden;
+        position: relative;
+        height: auto;
+    }
+
+    .banner-item {
+        position: relative;
+        padding-bottom: 100%;
+        height: auto;
+    }
+
+    .type-carusel__head-wrap {
+        gap: 1rem;
+        width: 100%;
+    }
+
+    .request-call .popup__inputs, .buy-on-click .popup__inputs {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .request-call .popup__input-wrap, .buy-on-click .popup__input-wrap {
+        width: 100%;
+        margin: 0;
+    }
+
+    .get-address .order-form__send-btn {
+        position: unset;
+        width: 100%;
+        margin-top: 1rem;
+    }
+
+    .get-address .order-form__icon {
+        top: 1.5rem;
+    }
+
+    .main-content {
+/*         margin-top: 5.5rem; */
+    }
+
+    .content__page-banner.--used .content__banner-img {
+        position: relative;
+        height: auto;
+    }
+
+}

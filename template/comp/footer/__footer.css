@@ -1,0 +1,507 @@
+ .footer-top__checkbox {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.footer-top__send-btn {
+    height: 3.5rem !important;
+    border-radius: 1rem;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    font-weight: 600;
+}
+
+.footer-top__send-btn:hover {
+    background-color: rgb(255 255 255 / 70%);
+}
+
+.footer-top__input {
+    background-color: #121212;
+    padding: 0 1.5rem;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    font-weight: 400;
+    height: 3.5rem;
+    color: #fff;
+    border: 1px solid #ffffff63;
+    border-radius: .875rem;
+}
+
+.footer-top__input:hover {
+    background-color: #484646;
+}
+
+.footer-top__input:hover::placeholder {
+    color: #fff;
+    opacity: 1;
+}
+
+.footer-top__input::placeholder {
+    transition: ease all .24s;
+}
+
+.footer-top__input::placeholder {
+    opacity: .32;
+}
+
+.footer-top__input-wrap {
+}
+
+.footer-top__checkbox .checkbox__label {
+    color: #fff !important;
+    opacity: .24;
+    font-weight: 300;
+}
+
+.footer-top__checkbox .checkbox__label-link {
+    color: #fff;
+    font-weight: 500;
+}
+
+.footer-top__checkbox .checkbox__label-link:hover {
+    opacity: 1;
+    color: var(--color__fill-1);
+}
+
+.footer-top__checkbox .checkbox__trigger, .footer-contacts__checkbox .checkbox__trigger,  .order-form__checkbox .checkbox__trigger {
+    background-color: transparent !important;
+    /* box-shadow: none !important; */
+    top: inherit;
+    width: 1rem;
+    height: 1rem;
+    background-position: center;
+    /* background-image: url("data:image/svg+xml,%3Csvg width='20' height='19' viewBox='0 0 20 19' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M18 5.33329L7.33333 16L2 10.6666' stroke='white' stroke-width='2'/%3E%3C/svg%3E%0A") !important; */
+    opacity: .24;
+    box-shadow: 0 0 0 1px #fff !important;
+    transition: ease all .24s;
+}
+
+.footer-top__checkbox-title {
+    font-size: 1.875rem;
+    line-height: 2rem;
+    font-weight: 700;
+    color: rgb(255 255 255 / 64%);
+}
+
+.footer-top__checkbox-title span {
+    color: rgb(255 255 255 / 40%);
+}
+
+.footer-top__top {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 1.5rem;
+    background-color: #fff;
+    border-radius: 0 0 1.5rem 1.5rem;
+}
+
+.footer-top .center-wrap, .footer-menu .center-wrap, .footer-contacts__wrap, .footer-menu__items-wrap, .footer-bottom .center-wrap {
+    gap: 1.5rem;
+}
+
+.footer-contacts .center-wrap {
+    gap: 2rem;
+}
+
+.footer-menu__logo {
+    width: 18rem;
+    height: 2rem;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url("data:image/svg+xml;charset=utf8, %3Csvg width='284' height='29' viewBox='0 0 284 29' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M9.70202 27.0742C8.38133 27.0742 7.16222 26.7694 6.2479 26.2107L0 22.401V18.4897L5.73994 21.9946C6.80665 22.655 8.22894 23.0105 9.70202 23.0105C11.1751 23.0105 12.5974 22.655 13.6641 21.9946L20.166 18.0325C21.0803 17.4738 22.2994 17.169 23.5693 17.169C24.8392 17.169 26.0583 17.4738 26.9726 18.0325L33.2713 21.8422V25.7535L27.5314 22.2486C26.4647 21.5883 25.0424 21.2327 23.6201 21.2327C22.147 21.2327 20.7755 21.5883 19.7088 22.2486L13.2069 26.2107C12.2418 26.7694 11.0227 27.0742 9.70202 27.0742Z' fill='white'/%3E%3Cpath d='M9.70202 18.5405C8.38133 18.5405 7.16223 18.2357 6.2479 17.6769L0 13.8165V9.90517L5.73994 13.4101C6.80665 14.0704 8.22894 14.426 9.70202 14.426C11.1751 14.426 12.5974 14.0704 13.6641 13.4101L20.166 9.448C21.0803 8.88925 22.2994 8.58447 23.5693 8.58447C24.8392 8.58447 26.0583 8.88925 26.9726 9.448L33.2205 13.2577V17.169L27.4806 13.6641C26.4139 13.0037 24.9916 12.6481 23.5693 12.6481C22.0962 12.6481 20.7247 13.0037 19.658 13.6641L13.1561 17.6261C12.2418 18.2357 11.0227 18.5405 9.70202 18.5405Z' fill='white'/%3E%3Cpath d='M9.70202 9.956C8.38133 9.956 7.16222 9.65122 6.2479 9.09247L0 5.23198V1.32069L5.73994 4.82561C6.80665 5.48596 8.22894 5.84153 9.70202 5.84153C11.1751 5.84153 12.5974 5.48596 13.6641 4.82561L20.166 0.863531C21.1311 0.304775 22.3502 0 23.6201 0C24.89 0 26.1091 0.304775 27.0234 0.863531L33.2713 4.67322V8.58451L27.5314 5.07959C26.4647 4.41924 25.0932 4.06367 23.6201 4.06367C22.147 4.06367 20.7755 4.41924 19.7088 5.07959L13.2069 9.04167C12.2418 9.65122 11.0227 9.956 9.70202 9.956Z' fill='white'/%3E%3Cpath d='M61.7678 22.9598L59.736 10.9212L59.3804 8.83852L54.6056 22.9598H52.0658L47.3418 8.78773L46.9862 10.9212L44.9036 22.9598H42.313L45.5639 4.31769H48.3577L53.3357 19.3025L58.3645 4.31769H61.1583L64.3076 22.9598H61.7678Z' fill='white'/%3E%3Cpath d='M143.143 22.9597L138.521 17.5245L137.555 18.5913V22.9597H135.016V18.5913L134.05 17.5245L129.428 22.9597H126.076L132.171 16.0007L126.177 9.448H129.174L135.016 15.7975V9.448H137.555V15.7975L143.397 9.448H146.394L140.4 16.0007L146.546 22.9597H143.143Z' fill='white'/%3E%3Cpath d='M182.662 23.3661C182.205 23.3661 181.849 23.2138 181.545 22.909C181.24 22.6042 181.088 22.2486 181.088 21.7915C181.088 21.3343 181.24 20.9787 181.545 20.674C181.849 20.3692 182.205 20.2168 182.662 20.2168C183.119 20.2168 183.475 20.3692 183.78 20.674C184.084 20.9787 184.237 21.3343 184.237 21.7915C184.237 22.2486 184.084 22.6042 183.78 22.909C183.424 23.2138 183.069 23.3661 182.662 23.3661Z' fill='white'/%3E%3Cpath d='M77.8193 22.9597V21.4358L77.0066 21.9438C75.9399 22.6042 74.7208 22.9089 73.4509 22.9089C69.6412 22.9089 66.4918 19.8104 66.4918 15.9499C66.4918 12.1402 69.5904 8.99084 73.4509 8.99084C77.2606 8.99084 80.4099 12.0894 80.4099 15.9499V22.9089H77.8193V22.9597ZM73.4509 11.6322C71.0127 11.6322 69.0824 13.6133 69.0824 16.0007C69.0824 18.4389 71.0635 20.3691 73.4509 20.3691C75.8891 20.3691 77.8193 18.3881 77.8193 16.0007C77.8193 13.6133 75.8383 11.6322 73.4509 11.6322Z' fill='white'/%3E%3Cpath d='M90.3659 22.9598C86.5563 22.9598 83.4069 19.8612 83.4069 16.0007C83.4069 12.191 86.5055 9.04169 90.3659 9.04169C92.0422 9.04169 93.6169 9.65124 94.8868 10.718L93.0581 12.5466C92.2962 11.9371 91.3819 11.6323 90.3659 11.6323C87.9277 11.6323 85.9975 13.6133 85.9975 16.0007C85.9975 18.4389 87.9785 20.3692 90.3659 20.3692C91.3311 20.3692 92.2962 20.0644 93.0581 19.4548L94.8868 21.2835C93.5661 22.3502 91.9914 22.9598 90.3659 22.9598Z' fill='white'/%3E%3Cpath d='M103.878 22.9598C100.068 22.9598 96.9186 19.8612 96.9186 16.0007C96.9186 12.191 100.017 9.04169 103.878 9.04169C105.554 9.04169 107.129 9.65124 108.399 10.718L106.57 12.5466C105.808 11.9371 104.894 11.6323 103.878 11.6323C101.439 11.6323 99.5092 13.6133 99.5092 16.0007C99.5092 18.4389 101.49 20.3692 103.878 20.3692C104.843 20.3692 105.808 20.0644 106.57 19.4548L108.399 21.2835C107.129 22.3502 105.554 22.9598 103.878 22.9598Z' fill='white'/%3E%3Cpath d='M151.423 5.68915C151.829 5.68915 152.134 5.53676 152.388 5.28278C152.642 5.0288 152.794 4.67323 152.794 4.31766C152.794 3.91129 152.642 3.60651 152.388 3.35253C152.134 3.09855 151.778 2.94617 151.423 2.94617C151.067 2.94617 150.711 3.09855 150.457 3.35253C150.203 3.60651 150.051 3.96209 150.051 4.31766C150.051 4.72402 150.203 5.0288 150.457 5.28278C150.711 5.53676 151.016 5.68915 151.423 5.68915Z' fill='white'/%3E%3Cpath d='M157.366 5.68915C157.772 5.68915 158.077 5.53676 158.331 5.28278C158.585 5.0288 158.737 4.67323 158.737 4.31766C158.737 3.91129 158.585 3.60651 158.331 3.35253C158.077 3.09855 157.721 2.94617 157.366 2.94617C157.01 2.94617 156.655 3.09855 156.401 3.35253C156.147 3.60651 155.994 3.96209 155.994 4.31766C155.994 4.72402 156.147 5.0288 156.401 5.28278C156.655 5.53676 157.01 5.68915 157.366 5.68915Z' fill='white'/%3E%3Cpath d='M161.277 16.0007C161.277 12.191 158.178 9.04169 154.318 9.04169C150.508 9.04169 147.359 12.1402 147.359 16.0007C147.359 19.8104 150.457 22.9598 154.318 22.9598C155.994 22.9598 157.569 22.3502 158.839 21.2835L157.01 19.4548C156.248 20.0644 155.283 20.3692 154.318 20.3692C152.439 20.3692 150.813 19.2009 150.204 17.423L149.95 16.7119H161.226C161.226 16.4579 161.277 16.2547 161.277 16.0007ZM150 14.934L150.356 14.1721C151.067 12.6482 152.642 11.6323 154.318 11.6323C155.994 11.6323 157.569 12.5974 158.28 14.1721L158.636 14.934H150Z' fill='white'/%3E%3Cpath d='M163.766 28.3441V16.0515C163.766 12.2418 166.865 9.09247 170.725 9.09247C174.535 9.09247 177.684 12.191 177.684 16.0515C177.684 19.8612 174.586 23.0105 170.725 23.0105C169.506 23.0105 168.287 22.655 167.169 22.0454L166.357 21.5375V28.3441H163.766ZM170.674 11.6323C168.236 11.6323 166.306 13.6133 166.306 16.0007C166.306 18.4389 168.287 20.3692 170.674 20.3692C173.112 20.3692 175.043 18.3881 175.043 16.0007C175.094 13.6133 173.112 11.6323 170.674 11.6323Z' fill='white'/%3E%3Cpath d='M121.453 22.9597V21.4358L120.64 21.9438C119.574 22.6042 118.354 22.9089 117.085 22.9089C113.275 22.9089 110.126 19.8104 110.126 15.9499C110.126 12.1402 113.224 8.99084 117.085 8.99084C120.894 8.99084 124.044 12.0894 124.044 15.9499V22.9089H121.453V22.9597ZM117.085 11.6322C114.646 11.6322 112.716 13.6133 112.716 16.0007C112.716 18.4389 114.697 20.3691 117.085 20.3691C119.523 20.3691 121.453 18.3881 121.453 16.0007C121.453 13.6133 119.472 11.6322 117.085 11.6322Z' fill='white'/%3E%3Cpath d='M206.13 4.21606L198.612 19.5564L190.993 4.21606H190.688L187.996 22.909H189.824L191.653 9.44804L198.358 22.909H198.815L205.469 9.54963L207.298 22.909H209.127L206.435 4.21606H206.13Z' fill='white'/%3E%3Cpath d='M256.215 9.09247H253.726L247.275 14.934V9.09247H245.497V22.909H247.275V17.0166L247.884 16.5087L254.234 22.909H256.773L249.154 15.3912L256.215 9.09247Z' fill='white'/%3E%3Cpath d='M270.895 11.4291C269.472 9.6512 267.593 8.73688 265.256 8.73688C262.97 8.73688 261.142 9.60041 259.77 11.3783C258.704 12.7498 258.145 14.3244 258.145 16.0515C258.145 17.9309 258.805 19.6072 260.075 21.0803C261.345 22.5534 263.123 23.3153 265.358 23.3153C266.374 23.3153 267.288 23.1629 268.101 22.8581C268.914 22.5534 269.625 22.0962 270.285 21.4866C270.945 20.8771 271.504 20.1152 272.012 19.15L270.488 18.3373C269.93 19.2516 269.422 19.912 268.964 20.3183C268.507 20.7247 267.948 21.0295 267.237 21.2835C266.577 21.5374 265.866 21.639 265.155 21.639C263.682 21.639 262.463 21.1311 261.447 20.1152C260.431 19.0992 259.923 17.7785 259.923 16.1531H272.368C272.419 14.2736 271.911 12.6482 270.895 11.4291ZM260.177 14.5784C260.532 13.3085 261.091 12.3434 261.802 11.7338C262.767 10.8703 263.936 10.4131 265.307 10.4131C266.12 10.4131 266.933 10.5655 267.644 10.9211C268.406 11.2767 269.015 11.7338 269.422 12.2926C269.879 12.8513 270.234 13.6133 270.437 14.5784H260.177Z' fill='white'/%3E%3Cpath d='M274.908 9.09247V10.6163H278.565V22.909H280.343V10.6163H284V9.09247H274.908Z' fill='white'/%3E%3Cpath d='M218.321 8.73688C214.41 8.73688 211.209 11.937 211.209 15.8483C211.209 19.7596 214.41 22.9597 218.321 22.9597C220.607 22.9597 222.588 21.893 223.908 20.2168V22.9597H225.432V15.8483C225.432 11.8862 222.232 8.73688 218.321 8.73688ZM218.321 21.1819C215.375 21.1819 212.937 18.7945 212.937 15.7975C212.937 12.8513 215.324 10.4131 218.321 10.4131C221.267 10.4131 223.705 12.8005 223.705 15.7975C223.705 18.7945 221.267 21.1819 218.321 21.1819Z' fill='white'/%3E%3Cpath d='M235.287 8.73688C231.375 8.73688 228.175 11.937 228.175 15.8483V28.0393H229.699V20.166C231.02 21.8422 233.001 22.9089 235.287 22.9089C239.198 22.9089 242.398 19.7088 242.398 15.7975C242.398 11.8862 239.198 8.73688 235.287 8.73688ZM235.287 21.1819C232.341 21.1819 229.902 18.7945 229.902 15.7975C229.902 12.8513 232.29 10.4131 235.287 10.4131C238.233 10.4131 240.671 12.8006 240.671 15.7975C240.671 18.7945 238.233 21.1819 235.287 21.1819Z' fill='white'/%3E%3C/svg%3E") !important;
+}
+
+.footer-menu__logo:hover {
+    opacity: .7;
+}
+
+.footer-menu__copyright {
+    opacity: .8;
+    font-weight: 400;
+}
+
+.footer-menu__policy, .footer-menu__cookie {
+    font-weight: 400;
+    display: block;
+    color: rgb(255 255 255 / 32%);
+}
+
+.footer-menu__items .menu-item {
+    font-weight: 400;
+    margin-top: 1rem;
+    color: rgb(255 255 255 / 60%);
+}
+
+.footer-menu__logo-wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.footer-menu__items .menu-item:first-child {
+    margin-top: 0;
+}
+
+.footer-menu__items .menu-item:nth-child(2) {
+    margin-top: 0;
+}
+
+.footer-top__checkbox .checkbox input:checked + * > .checkbox__trigger, .footer-contacts__checkbox input:checked + * > .checkbox__trigger {
+    background-image: url("data:image/svg+xml,%3Csvg width='20' height='19' viewBox='0 0 20 19' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M18 5.33329L7.33333 16L2 10.6666' stroke='white' stroke-width='2'/%3E%3C/svg%3E%0A") !important;
+    box-shadow: none !important;
+    box-shadow: 0 0 0 0 #fff !important;
+}
+
+.footer-top__send-btn:active {
+    background-color: rgb(255 255 255 / 30%) !important;
+    color: #fff;
+}
+
+.footer-menu__items .menu-item:hover {
+    color: #fff;
+}
+
+.footer-menu__sub-items .sub-item {
+    color: rgb(255 255 255 / 40%);
+    font-weight: 400;
+    margin-top: .5rem;
+    opacity: 1;
+}
+
+.footer-menu__sub-items .sub-item:hover {color: #fff;}
+
+.footer-menu__sub-items .sub-item:first-child {
+    margin-top: 0;
+}
+
+.footer-menu__sub-items .sub-item:nth-child(2) {
+    margin-top: 0;
+}
+
+.footer-contacts__subsribe-label {
+    opacity: .6;
+    letter-spacing: .02em;
+    font-weight: 400;
+}
+
+.footer-contacts__subscribe-input {
+    background-color: transparent;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    font-weight: 500;
+    transition: ease all .24s;
+    color: #fff;
+    border-bottom: 2px solid rgb(255 255 255 / 24%) !important;
+    border: 2px solid transparent;
+    padding: 0 3rem 0 0;
+}
+
+.footer-contacts__input-wrap {
+    position: relative;
+}
+
+.footer-contacts__checkbox {
+    display: block;
+}
+
+.footer-contacts__checkbox-link {
+    color: #fff;
+    font-weight: 500;
+}
+
+.footer-contacts__checkbox-link:hover {
+    color: var(--color__fill-1);
+}
+
+.footer-contacts__subscribe-icon {
+    width: 1.5rem;
+    height: 1rem;
+    position: absolute;
+    right: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+    transition: ease all .24s;
+    padding: 0;
+    background-color: transparent;
+    border-radius: 0;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.footer-contacts__subscribe-icon:active {
+    transform: translateY(-50%) scale(.9);
+}
+
+.footer-contacts__subscribe-input::placeholder {
+    transition: ease all .24s;
+    color: rgb(255 255 255 / 40%);
+}
+
+.footer-menu__policy:hover, .footer-menu__cookie:hover {
+    color: #fff;
+}
+
+.footer-menu .center-wrap {
+    border-bottom: 1px dashed rgb(255 255 255 / 10%);
+}
+
+.footer-contacts__input-wrap:hover .footer-contacts__subscribe-icon {
+    right: .5rem;
+}
+
+.footer-contacts__time-mode {
+    opacity: .4;
+    font-weight: 400;
+}
+
+.footer-contacts__tel {
+    color: rgb(255 255 255 / 80%);
+    font-weight: 700;
+    display: block;
+}
+
+.footer-contacts__email {
+    color: rgb(255 255 255 / 40%);
+    display: block;
+}
+
+.footer-contacts__tel:hover {
+    color: #fff;
+}
+
+.footer-contacts__email:hover {
+    color: #fff;
+}
+
+.footer-contacts__messengers-items .messenger-item {
+    width: 4.25rem;
+    height: 4.25rem;
+    border-radius: 4.25rem;
+    background-color: rgb(255 255 255 / 10%) !important;
+    margin-right: .375rem;
+    background-size: 2.5rem 2.5rem !important;
+}
+
+.footer-contacts__messengers-label {
+    opacity: .32;
+    font-weight: 400;
+}
+
+.footer-contacts__messengers-items .messenger-item:hover {
+    background-color: rgb(255 255 255 / 20%) !important;
+}
+
+.footer-contacts__subscribe-input:focus {
+    border: 2px solid rgb(255 255 255 / 24%);
+    padding: 0 3rem 0 1rem;
+    border-radius: 1rem;
+}
+
+.footer-bottom {
+    background-color: #282828;
+}
+
+.footer-bottom__info {
+    opacity: .4;
+    font-weight: 300;
+}
+
+.payment-item {
+    width: 5.5rem;
+    height: 2rem;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-right: 1.5rem;
+    opacity: .16;
+}
+
+.payment-item.--svg__mastercard {
+    width: 8.25rem;
+}
+
+.payment-item:last-child {
+    margin-right: 0;
+}
+
+.footer-contacts__checkbox .checkbox__label {
+    color: #fff !important;
+    opacity: .32;
+    font-weight: 300;
+}
+
+.footer-contacts__checkbox .checkbox__label-link {
+    color: #fff;
+    font-weight: 500;
+}
+
+.footer-contacts__checkbox .checkbox__label-link:hover {
+    color: var(--color__fill-1);
+}
+
+.popup__name-input:focus-within {
+    background-color: transparent !important;
+}
+
+@media (max-width: 991px) {
+
+    .footer-top__form-wrap {
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+
+    .footer-top__form-wrap>* {
+        max-width: 100% !important;
+        margin: 0 !important;
+    }
+
+    .footer-top__checkbox {
+        max-width: 100% !important;
+    }
+
+    .footer-menu__copyright-wrap {
+        display: flex;
+        align-items: baseline;
+        gap: 1.5rem;
+    }
+
+    .footer-menu__logo-wrap {
+        max-width: 100% !important;
+        gap: 1.5rem;
+    }
+
+    .footer-menu__copyright-wrap>* {
+        margin: 0 !important;
+    }
+
+    .footer-bottom {
+        padding: 2rem 0 7rem 0 !important;
+    }
+
+    .footer-top__form {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .footer-top__form>* {
+        margin: 0 !important;
+        max-width: 100% !important;
+    }
+
+    .footer-contacts__wrap {
+        max-width: 100% !important;
+        justify-content: space-between;
+    }
+
+    .footer-bottom__payment {
+        max-width: 100% !important;
+        justify-content: space-between;
+    }
+
+    .footer-bottom__info, .footer-contacts__subscribe {
+        max-width: 100% !important;
+    }
+
+     .footer-contacts__messengers-wrap {
+         max-width: fit-content !important;
+     }
+
+}
+
+
+@media (max-width: 640px) {
+
+    .footer-top__top .center-wrap {
+        flex-direction: column;
+        gap: 2rem;
+    }
+
+    .footer-top {
+        padding-top: 4rem !important;
+    }
+
+    .footer-top__form-wrap {
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+
+    .footer-top__input-wrap {
+        margin-top: 0 !important;
+    }
+
+    .footer-top__send-btn {
+        margin-top: 0 !important;
+    }
+
+    .footer-menu__copyright-wrap {
+        margin-top: 1rem;
+        display: flex;
+        flex-direction: column;
+        gap: .5rem;
+    }
+
+    .footer-menu__copyright-wrap >* {
+        margin-top: 0 !important;
+    }
+
+    .footer-menu__items-wrap {
+        margin-top: 2rem;
+    }
+
+    .footer-menu__items-wrap {
+        flex-direction: column;
+        gap: 1.5rem;
+        margin-top: 2rem;
+        align-items: flex-start;
+    }
+
+    .footer-menu .center-wrap {
+        padding-bottom: 2rem !important;
+    }
+
+    .footer-contacts {
+        margin-top: 2rem !important;
+        padding-bottom: 4rem !important;
+    }
+
+    .footer-contacts .center-wrap {
+        flex-direction: column;
+        gap: 2rem;
+        align-items: flex-start;
+    }
+
+    .footer-contacts__wrap {
+        flex-direction: column;
+        gap: 1.5rem;
+        align-items: flex-start;
+    }
+
+    .footer-contacts__messengers-wrap {
+        flex-direction: column;
+        gap: 1rem;
+        align-items: flex-start;
+    }
+
+    .footer-bottom .center-wrap {
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+
+    .footer-bottom__payment {
+        gap: 1rem;
+    }
+
+    .footer-bottom__payment .payment-item {
+        flex: 1;
+        margin-right: 0 !important;
+    }
+
+    .footer-bottom__payment .payment-item.--svg__mastercard {
+        flex: none;
+    }
+    
+}

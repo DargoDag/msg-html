@@ -1,0 +1,210 @@
+.products-carousel .product-item__price-wrap {
+    align-items: flex-start;
+}
+
+.products-carousel .swiper-button-next:after, .swiper-rtl .swiper-button-prev:after {
+    display: none;
+}
+
+.products-carousel .swiper-button-prev:after, .swiper-rtl .swiper-button-next:after {
+    display: none;
+}
+
+.swiper-container.--products {
+    /* overflow: visible; */
+}
+
+.swiper-container.--products .swiper-slide-next + div + div + div, .swiper-container.--products .swiper-slide.swiper-slide-prev {
+    opacity: 0;
+    pointer-events: none;
+}
+
+.products-carousel .swiper-wrapper {
+    align-items: stretch !important;
+}
+
+.swiper-pagination.--products span {
+    width: 1rem;
+    display: block;
+}
+
+.type-carusel__btn.--products {
+    position: relative;
+    right: inherit;
+    left: inherit;
+    top: inherit;
+    height: 3.5rem;
+    width: 3.5rem;
+    margin: 0;
+    background-color: var(--color__fill-4);
+    box-shadow: none;
+}
+
+.type-carusel__btn.--products.swiper-button-disabled {
+    opacity: 1 !important;
+}
+
+.type-carusel__btn-icon {
+    width: 1.375rem;
+    height: 1.375rem;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: ease all .24s;
+}
+
+.type-carusel__btn.--products.swiper-button-disabled .type-carusel__btn-icon {
+    opacity: .24;
+}
+
+.swiper-pagination.--products {
+    display: flex;
+    align-items: center;
+    font-size: 1.25rem !important;
+    line-height: 1.75rem;
+}
+
+.type-carusel__all-btn {
+    border-radius: 3.5rem;
+    padding: 0 2rem;
+    font-size: 1.125rem;
+    line-height: 1.875rem;
+    font-weight: 500 !important;
+}
+
+.type-carusel__btn.--products.swiper-button-prev:after, .swiper-rtl .swiper-button-next:after {
+    display: none;
+}
+
+.type-carusel__btn.--products.swiper-button-next:after, .swiper-rtl .swiper-button-prev:after {
+    display: none;
+}
+
+.products-carousel.--sale .swiper-slide-next + div + div {
+    opacity: 0;
+    pointer-events: none;
+}
+
+.products-carousel.--viewed .product-item__cover-img {
+    width: 100%;
+    height: 100%;
+}
+
+.product-item__cover {
+    padding: 2rem 2.25rem 2.25rem 2.25rem;
+    background-color: var(--color__fill-4);
+    border-radius: 1.5rem;
+}
+
+.products-carousel.--viewed .product-item {
+    border-radius: 0;
+}
+
+.products-carousel.--viewed .product-item:hover {
+    border-radius: 0;
+    box-shadow: none;
+    background-color: transparent;
+}
+
+.products-carousel.--viewed .product-item__desc {
+    padding: 0;
+}
+
+.products-carousel .rate__icon {
+    width: 1.125rem;
+    font-size: 1.5rem;
+    line-height: 1.125rem;
+}
+
+.products-carousel.--sale .type-carusel__head {
+    position: absolute;
+    top: -5rem;
+    width: 100%;
+    right: 0;
+}
+
+.product-item__cover-carousel .swiper-slide {
+    opacity: 1 !important;
+    pointer-events: all !important;
+}
+
+.products-carousel.--sale .swiper-slide {
+    max-width: 19.8125rem;
+}
+
+.products-carousel .swiper-slide {
+    max-width: 22.5rem;
+}
+
+.products-carousel.--viewed .product-item__name {
+    margin-top: 1rem;
+    display: block;
+}
+
+.products-carousel.--viewed .product-item__cover {
+    display: flex;
+    padding: 0;
+    background-color: transparent;
+}
+
+@media (max-width: 1200px) {
+
+    .sale-tab {
+        gap: 4rem;
+    }
+
+    .products-carousel.--sale .type-carusel__head {
+        position: unset;
+        justify-content: flex-start;
+    }
+    
+}
+
+@media (max-width: 991px) {
+
+    
+    
+}
+
+@media (max-width: 640px) {
+
+    .swiper-pagination.--products {
+        font-size: 1.5rem !important;
+        line-height: 2rem !important;
+    }
+
+    .products-carousel .type-carusel__pagination:not(.product-item__cover-carousel .type-carusel__pagination) {
+        position: absolute;
+        bottom: -2rem;
+        left: 50%;
+        transform: translateX(-50%);
+        margin: 0 !important;
+    }
+
+    .products-carousel .type-carusel__head {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1.5rem;
+    }
+    
+    .products-carousel .type-carusel__head-wrap {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1.5rem;
+    }
+
+    .products-carousel .type-carusel__nav {
+        width: 100%;
+        justify-content: space-between;
+        gap: 1rem;
+    }
+
+    .products-carousel .type-carusel__nav-wrap {
+        gap: 1rem;
+    }
+
+    .products-carousel {
+        padding-bottom: 3.5rem;
+    }
+    
+}

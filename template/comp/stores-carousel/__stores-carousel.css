@@ -1,0 +1,28 @@
+.stores-carousel .swiper-slide-next+div+div {
+        opacity: 0;
+        pointer-events: none;
+}
+
+.store-item__tel {
+        flex-direction: column;
+}
+
+.store-item__tel a {
+        color: var(--color__dark);
+        font-size: 1.6875rem;
+        line-height: 2rem;
+        font-weight: 700;
+}
+
+.store-item__tel a:hover {
+        color: var(--color__fill-1);
+}
+
+.store-item__footer {
+        width: 100%;
+}
+
+.store-item__contacts {
+        display: flex;
+        justify-content: space-between;
+}

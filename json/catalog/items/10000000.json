@@ -1,0 +1,1121 @@
+[
+    {
+        "id": 11111111,
+        "code": "casada-alphasonic-2",
+        "title": "Casada Alphasonic 2 Черный",
+        "desc": "Casada Alphasonic 2 Черный",
+        "article": "-",
+        "name": "Casada Alphasonic 2",
+        "price": 330000,
+        "description": "<p>Массажное кресло <strong>Casada Alphasonic 2/strong>&nbsp;- Позволит ощутить незабываемые ощущения от массажа всего тела за разумную стоимость.</p><p><strong> С помощью нашего массажного кресла вы:</strong></p><ul><li>повысите свой жизненный тонус</li><li>избавитесь от болевых ощущений в пояснице, спине и шейном отделе</li><li>нормализуете кровообращение в тканях</li><li>получите глубокое разминание всех мышц</li><li>реабилитируетесь после травмы или болезни</li><li>снимите мышечное напряжение после физической активности</li></ul><p><strong>Кресло производит следующие типы массажа:</strong></p><ul><li>Шиацу (точечное воздействие на некоторые зоны, достаточно ощутимое давление на эти точки)</li><li>Воздушно-компрессионный массаж</li><li>Разминающий массаж</li></ul><p><strong>Дополнительные функции:</strong></p><ul><li>Нулевая гравитация (Zero Gravity), или наиболее удобная и комфортная поза, в которой тело располагается под углом 35-40 градусов, что обеспечивает более равномерную и более оптимальную нагрузку на массажные механизмы. Поза «Zero gravity» позволяет приподнять ноги, благодаря чему происходит отток крови, а массаж становится настоящим наслаждением. L-образная каретка сделает массаж максимально детализированным, начиная от ягодиц, заканчивая шейным отделом позвоночника.</li><li>Благодаря автоматическому режиму, можно задать массаж отдельной области или всех частей тела.</li><li>Функция массажа сжатым воздухом для голени, ног, рук и плеч</li><li>В кресле предусмотрена функция нагрева спинки кресла.</li></ul>",
+        "group_numb": 10000000,
+        "category_link": "https://tiu.ru/used",
+        "in_stock": "+",
+        "is_used": true,
+        "warranty": true,
+        "condition": "отличное",
+        "store": "Нижний Новгород",
+        "img": [
+            "https://images.ru.prom.st/alpha-sonic-2.jpg",
+            "https://images.ru.prom.st/alpha-sonic-2-1.jpg",
+            "https://images.ru.prom.st/alpha-sonic-2-2.jpg",
+            "https://images.ru.prom.st/alpha-sonic-2-3.jpg"
+        ],
+        "id_subcategory": 200918,
+        "manufacture": "Casada",
+        "country": "Китай",
+        "price_per": "-",
+        "marker": null,
+        "sales": null,
+        "sales_date_for": null,
+        "sales_date_to": null,
+        "props": [
+            {
+            "name": "Состояние",
+            "value": "Отличное",
+            "sufix": null
+            },
+            {
+            "name": "Гарантийный срок",
+            "value": "Есть",
+            "sufix": null
+            },
+            {
+            "name": "Ширина",
+            "value": "81",
+            "sufix": "см"
+            },
+            {
+            "name": "Тип управления",
+            "value": "Автоматическое/Ручное",
+            "sufix": null
+            },
+            {
+            "name": "Высота",
+            "value": "119",
+            "sufix": "см"
+            },
+            {
+            "name": "Цвет",
+            "value": "Черный",
+            "sufix": null
+            },
+            {
+            "name": "Область массажа",
+            "value": ["икры, ноги, плечи, поясница, руки, спина, стопы, шея, ягодицы"],
+            "sufix": null
+            },
+            {
+            "name": "Пульт дистанционного управления",
+            "value": "Есть",
+            "sufix": null
+            },
+            {
+            "name": "Вид массажного воздействия",
+            "value": ["Разминание, Воздушно-компрессионный массаж, Растягивание, Акупунктура, Растирание, Точечный массаж, Массаж Шиацу, Роликовый массаж, Комбинированный, Инфракрасное прогревание"],
+            "sufix": null
+            },
+            {
+            "name": "Ручное программирование",
+            "value": "Да",
+            "sufix": null
+            },
+            {
+            "name": "Материал",
+            "value": "Искусственная кожа",
+            "sufix": null
+            },
+            {
+            "name": "Глубина",
+            "value": "148",
+            "sufix": "см"
+            },
+            {
+            "name": "Возможность выбора области массажа",
+            "value": "Да",
+            "sufix": null
+            },
+            {
+            "name": "Количество программ",
+            "value": "9",
+            "sufix": "шт."
+            },
+            {
+            "name": "Защита от перегрева",
+            "value": "Да",
+            "sufix": null
+            },
+            {
+            "name": "Дисплей",
+            "value": "Да",
+            "sufix": null
+            },
+            {
+            "name": "Система нулевой гравитации (ZERO-G)",
+            "value": "Да",
+            "sufix": null
+            },
+            {
+            "name": "Подсветка дисплея",
+            "value": "Нет",
+            "sufix": null
+            },
+            {
+            "name": "Функция синхронизация с музыкой",
+            "value": "Да",
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            }
+        ]
+    },
+    {
+        "id": 11111112,
+        "code": "massazhnoye-kreslo-casada-betasonic-2-seroe",
+        "title": "Заказать массажное кресло CASADA BetaSonic 2 серое в интернет-магазине Массажер.Маркет",
+        "desc": "CASADA BetaSonic 2 оранжевое массажное кресло купить в интернет-магазине с доставкой по лучшей цене! Описание, характеристики и фото.",
+        "article": "CMS-407",
+        "name": "Массажное кресло CASADA BetaSonic 2 серое",
+        "price": 200000,
+        "description": "<div class=\"ck-image-text-right ck-image-text-right_type_lite ck-theme-grey\"><div class=\"ck-image-text-right__image-wrapper\"><img alt=\"\" class=\"ck-image-text-right__image\" src=\"https://images.ru.prom.st/876985777_876985777.jpg?PIMAGE_ID=876985777\" style=\"width: 505px; height: 337px;\" /></div><div class=\"ck-image-text-right__text\"><div class=\"ck-image-text-right__title\">Уникальный стиль и немецкое качество</div><p><br />Массажное кресло CASADA BetaSonic 2 (БетаСоник) оранжевый &ndash; массажное кресло бизнес-класса последнего поколения. Достаточно просто взглянуть на него, чтобы это понять.<br /><br /><br />Уникальный дизайн, который Вы не встретите у других производителей, способен стать важной частью интерьера Вашего дома.<br /><br />Кресло выполнено из эко-кожи SolidTex с добавлением хлопка, которая не только прекрасно смотрится, но и идеально распределяет тепло.</p></div><h3><span style=\"font-size:18px;\"><strong>Кресло представлено в трех цветовых палитрах:</strong></span></h3><ul><li>Cеро-черный</li><li>Янтарно-бежевый</li><li>Кремово-бежевый</li></ul></div><div class=\"ck-image-text-left ck-image-text-left_type_lite ck-theme-grey\"><div class=\"ck-image-text-left__image-wrapper\"><img alt=\"\" class=\"ck-image-text-left__image\" src=\"https://images.ru.prom.st/876988324_876988324.jpg?PIMAGE_ID=876988324\" style=\"width: 495px; height: 332px;\" /></div><div class=\"ck-image-text-left__text\"><div class=\"ck-image-text-left__title\">Стиль и элегантность для любого дома.</div><p>Однако, такой дизайн &ndash; это не просто дань моде. Благодаря инновационной капсульной системе строения кресла Ваше тело принимает положение, при котором нагрузка на позвоночник сводится к минимуму, а мышцы расслабляются для максимального эффекта от массажа.</p><p>Кресло оснащено функцией&nbsp;<b>ZeroSpace</b>, благодаря которой оно не займет много пространства в Вашей квартире. Находясь в нерабочем состоянии, оно может стоять прижатым к стене, и только включившись и начав работу оно &laquo;отъедет&raquo; от стены. ZeroSpace &ndash; уникальная и инновационная слайдер-система для массажных кресел и, неслучайно, именно компания Casada первой стала применять ее в своей продукции, делая ее еще более практичной.</p></div><h2 style=\"text-align: center;\"><strong>Преимущества Casada BetaSonic 2:&nbsp;</strong></h2></div><div class=\"ck-list-vertical ck-list-vertical_type_lite ck-theme-grey\"><div class=\"ck-list-vertical__table\"><div class=\"ck-list-vertical__table-item ck-list-vertical__table-item_type_narrow\"><div class=\"ck-list-vertical__number\">1</div></div><div class=\"ck-list-vertical__table-item\"><div class=\"ck-list-vertical__text\"><div class=\"ck-list-vertical__title\">Система Braintronics</div><p>Система Braintronics с функцией подключения к Вашему мобильному телефону, чтобы Вы могли расслабиться под любимую музыку.</p></div></div><div class=\"ck-list-vertical__table-item ck-list-vertical__table-item_type_narrow\">&nbsp;</div><div class=\"ck-list-vertical__table-item ck-list-vertical__table-item_type_narrow\"><div class=\"ck-list-vertical__number\">2</div></div><div class=\"ck-list-vertical__table-item\"><div class=\"ck-list-vertical__text\"><div class=\"ck-list-vertical__title\">8 массажных программ</div><p>8 массажных программ, среди которых Вы обязательно найдете ту, которая подходит именно Вам.</p></div></div></div></div><div class=\"ck-list-vertical ck-list-vertical_type_lite ck-theme-grey\"><div class=\"ck-list-vertical__table\"><div class=\"ck-list-vertical__table-item ck-list-vertical__table-item_type_narrow\"><div class=\"ck-list-vertical__number\">3</div></div><div class=\"ck-list-vertical__table-item\"><div class=\"ck-list-vertical__text\"><div class=\"ck-list-vertical__title\">Массаж рук</div><p>Массаж рук воздушными подушками, который улучшает кровообращение и снимает напряжение.</p></div></div><div class=\"ck-list-vertical__table-item ck-list-vertical__table-item_type_narrow\">&nbsp;</div><div class=\"ck-list-vertical__table-item ck-list-vertical__table-item_type_narrow\"><div class=\"ck-list-vertical__number\">4</div></div><div class=\"ck-list-vertical__table-item\"><div class=\"ck-list-vertical__text\"><div class=\"ck-list-vertical__title\">SL-образная каретка</div><p>SL-образная каретка, полностью повторяющая форму Вашего тела для большей эффективности массажа</p></div></div></div></div><div class=\"ck-list-vertical ck-list-vertical_type_lite ck-theme-grey\"><div class=\"ck-list-vertical__table\"><div class=\"ck-list-vertical__table-item ck-list-vertical__table-item_type_narrow\"><div class=\"ck-list-vertical__number\">5</div></div><div class=\"ck-list-vertical__table-item\"><div class=\"ck-list-vertical__text\"><div class=\"ck-list-vertical__title\">Ручные&nbsp;настройки программ</div><p>Возможность ручной настройки программы массажа: создайте и сохраните свою программу для получения максимального удовольствия от массажа.</p></div></div><div class=\"ck-list-vertical__table-item ck-list-vertical__table-item_type_narrow\">&nbsp;</div><div class=\"ck-list-vertical__table-item ck-list-vertical__table-item_type_narrow\"><div class=\"ck-list-vertical__number\">6</div></div><div class=\"ck-list-vertical__table-item\"><div class=\"ck-list-vertical__text\"><div class=\"ck-list-vertical__title\">Низкий уровень шума</div><p>Низкий уровень шума, который не создаст дискомфорта ни Вам, ни Вашим близким. Кресло работает настолько тихо, что Вы услышите только как воздушные камеры наполняются воздухом.</p></div></div></div></div><div class=\"ck-list-vertical ck-list-vertical_type_lite ck-theme-grey\"><div class=\"ck-list-vertical__table\"><div class=\"ck-list-vertical__table-item ck-list-vertical__table-item_type_narrow\"><div class=\"ck-list-vertical__number\">7</div></div><div class=\"ck-list-vertical__table-item\"><div class=\"ck-list-vertical__text\"><div class=\"ck-list-vertical__title\">Информативный пульт</div><p>Удобный и информативный пульт управления.</p></div></div><div class=\"ck-list-vertical__table-item ck-list-vertical__table-item_type_narrow\">&nbsp;</div><div class=\"ck-list-vertical__table-item ck-list-vertical__table-item_type_narrow\"><div class=\"ck-list-vertical__number\">8</div></div><div class=\"ck-list-vertical__table-item\"><div class=\"ck-list-vertical__text\"><div class=\"ck-list-vertical__title\">Массаж ног по технике Гуаша</div><p>Массаж ног по технике Гуаша &ndash; древней китайской методике, в основе которой лежит массаж рефлексогенных зон.</p></div></div></div></div><div class=\"ck-image-text-right ck-image-text-right_type_lite ck-theme-grey\"><div class=\"ck-image-text-right__image-wrapper\"><img alt=\"\" class=\"ck-image-text-right__image\" src=\"https://images.ru.prom.st/876991465_876991465.jpg?PIMAGE_ID=876991465\" style=\"width: 519px; height: 346px;\" /></div><div class=\"ck-image-text-right__text\"><div class=\"ck-image-text-right__title\">Восстановление сил за 21 минуту вместе с Braintronics!</div><h3>Бороться со стрессом &ndash; легко&nbsp;</h3><p><b>Braintronics&nbsp;</b>&ndash; новейший способ борьбы со стрессом. Это уникальная анти-стресс система, которая использует принцип&nbsp;<b>бинауральных ритмов&nbsp;</b>в своих авторских мелодиях. Эти мелодии оказывают воздействие на мозг человека, в то время, как кресло осуществляет роликовый и воздушно-компрессионный массаж.</p></div></div><div class=\"ck-image-text-left ck-image-text-left_type_lite ck-theme-grey\"><div class=\"ck-image-text-left__image-wrapper\"><img alt=\"\" class=\"ck-image-text-left__image\" src=\"https://images.ru.prom.st/876992403_876992403.jpg?PIMAGE_ID=876992403\" style=\"width: 467px; height: 313px;\" /></div><div class=\"ck-image-text-left__text\"><div class=\"ck-image-text-left__title\">3 шага навстречу психическому здоровью<br />&nbsp;</div><p><b>Braintronics&nbsp;</b>за 21 минуту перезагружает ваш организм, подготавливая вас к новым совершениям. Каждая программа системы Braintronics состоит из трех частей:</p><ul><li>Расслабление &ndash; 8-минутное расслабление, во время которого кресло осуществляет мягкий роликовый и компрессионный массаж..<br />&nbsp;</li><li>Терапия &ndash; стадия аудио-стимуляции программы на подсознание. Кресло останавливает сеанс массажа, но мелодия в наушниках продолжает свое воздействие на мозг.<br />&nbsp;</li><li>Пробуждение &ndash; массаж возобновляется, выводя человека из состояния расслабленности. После пробуждения вы снова полны сил и готовы к новым свершениям.</li></ul></div></div><h3 style=\"text-align: center;\"><strong><span style=\"font-size:16px;\">Антистресс-система Braintronics теперь в вашем смартфоне&nbsp;</span></strong></h3><p style=\"text-align: center;\">Уникальная анти-стресс система Braintronics теперь доступна для&nbsp;<b>бесплатной установки в Google Play и App Store.</b>&nbsp;Постоянно пополняемая база программ на все случаи жизни в вашем мобильном телефоне!<br /><img alt=\"\" src=\"https://images.ru.prom.st/876993736_876993736.jpg?PIMAGE_ID=876993736\" style=\"width: 640px; height: 358px;\" /></p>",
+        "group_numb": 10000000,
+        "category_link": "https://tiu.ru/used",
+        "in_stock": "+",
+        "is_used": true,
+        "warranty": true,
+        "condition": "Хорошее, есть следы эксплуатации",
+        "store": "Нижний Новгород",
+        "img": [
+            "https://images.ru.prom.st/876986851_massazhnoe-kreslo-casada.jpg",
+            "https://images.ru.prom.st/876986850_massazhnoe-kreslo-casada.jpg",
+            "https://images.ru.prom.st/876986852_massazhnoe-kreslo-casada.jpg",
+            "https://images.ru.prom.st/876986853_massazhnoe-kreslo-casada.jpg"
+        ],
+        "id_subcategory": 200918,
+        "manufacture": "Casada",
+        "country": "Китай",
+        "price_per": "-",
+        "marker": null,
+        "sales": null,
+        "sales_date_for": null,
+        "sales_date_to": null,
+        "props": [
+            {
+            "name": "Состояние",
+            "value": "Хорошее, есть следы эксплуатации",
+            "sufix": null
+            },
+            {
+            "name": "Гарантия",
+            "value": "Есть",
+            "sufix": null
+            },
+            {
+            "name": "Ширина",
+            "value": "76",
+            "sufix": "см"
+            },
+            {
+            "name": "Потребляемая мощность",
+            "value": "150",
+            "sufix": "Вт"
+            },
+            {
+            "name": "Вес",
+            "value": "92",
+            "sufix": "кг"
+            },
+            {
+            "name": "Тип управления",
+            "value": "Автоматическое/Ручное",
+            "sufix": null
+            },
+            {
+            "name": "Высота",
+            "value": "110",
+            "sufix": "см"
+            },
+            {
+            "name": "Цвет",
+            "value": "Оранжевый",
+            "sufix": null
+            },
+            {
+            "name": "Область массажа",
+            "value": ["Бедра, Икры, Лодыжки, Плечи, Поясница, Руки, Спина, Ступни, Талия, Шея, Ягодицы"],
+            "sufix": null
+            },
+            {
+            "name": "Вид массажного воздействия",
+            "value": ["Разминание, Воздушно-компрессионный массаж, Растягивание, Акупунктура, Точечный массаж, Массаж Шиацу, Роликовый массаж, Комбинированный, Инфракрасное прогревание"],
+            "sufix": null
+            },
+            {
+            "name": "Ручное программирование",
+            "value": "Да",
+            "sufix": null
+            },
+            {
+            "name": "Материал",
+            "value": "Искусственная кожа",
+            "sufix": null
+            },
+            {
+            "name": "Глубина",
+            "value": "143",
+            "sufix": "см"
+            },
+            {
+            "name": "Количество роликов",
+            "value": "4",
+            "sufix": null
+            },
+            {
+            "name": "Возможность выбора области массажа",
+            "value": "Да",
+            "sufix": null
+            },
+            {
+            "name": "Количество программ",
+            "value": "8",
+            "sufix": "шт."
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            }
+        ]
+    },
+    {
+        "id": 11111113,
+        "code": "massazhnoye-kreslo-casada-smart-5-bezhevoe",
+        "title": "Заказать массажное кресло CASADA Smart 5 Бежевое в интернет-магазине Массажер.Маркет",
+        "desc": "CASADASmart 5 Хаки массажное кресло купить в интернет-магазине с доставкой по лучшей цене! Описание, характеристики и фото.",
+        "article": "CSM-389",
+        "name": "Массажное кресло CASADA Smart 5 Бежевое",
+        "price": 110000,
+        "description": "<div class=\"ck-image-text-left ck-image-text-left_type_lite ck-theme-grey\"><div class=\"ck-image-text-left__image-wrapper\"><img alt=\"\" class=\"ck-image-text-left__image\" src=\"https://images.ru.prom.st/876998928_876998928.jpg?PIMAGE_ID=876998928\" style=\"width: 640px; height: 198px;\" /></div><div class=\"ck-image-text-left__text\"><div class=\"ck-image-text-left__title\"><b>Долгожданная новинка от ведущего европейского производителя массажных кресел!</b></div><p>Компактное и функциональное массажное кресло для дома&nbsp;<b>Casada&nbsp;</b><b>Smart 5</b>с независимым блоком массажера для ног.</p><p>Изысканный внешний вид кресла Smart 5 дополнит любой интерьер и расскажет не только статусе, но и о вкусе его владельца.</p><div class=\"ck-image-text-right ck-image-text-right_type_lite ck-theme-grey\"><div class=\"ck-image-text-right__image-wrapper\"><img alt=\"\" class=\"ck-image-text-right__image\" src=\"https://images.ru.prom.st/876999140_876999140.jpg?PIMAGE_ID=876999140\" style=\"width: 376px; height: 251px;\" /></div><div class=\"ck-image-text-right__text\"><div class=\"ck-image-text-right__title\">&nbsp;</div><div class=\"ck-image-text-right__title\">&nbsp;</div><div class=\"ck-image-text-right__title\">Отдельный массажер для ног</div><p>Smart 5 имеет независимый от кресла блок массажера для ног, встроенный в стильный пуфик. Пуфик оснащен отдельным блоком питания и способен работать автономно.</p><p>Вы можете расположить кресло и пуфик в разных помещениях и использовать их как два различных массажера.</p></div></div></div></div><div class=\"ck-image-text-left ck-image-text-left_type_lite ck-theme-grey\"><div class=\"ck-image-text-left__image-wrapper\"><img alt=\"\" class=\"ck-image-text-left__image\" src=\"https://images.ru.prom.st/876999393_876999393.jpg?PIMAGE_ID=876999393\" style=\"width: 290px; height: 195px;\" /></div><div class=\"ck-image-text-left__text\"><div class=\"ck-image-text-left__title\">&nbsp;</div><div class=\"ck-image-text-left__title\">&nbsp;</div><div class=\"ck-image-text-left__title\">3 пульта управления</div><p>Кресло и пуфик оснащены собственными панелями управления, также в комплекте есть беспроводной пульт, с которого можно управлять как креслом, так и массажером для ног.</p></div></div><div class=\"ck-list-horizontal ck-list-horizontal_type_standard ck-theme-grey\"><div class=\"ck-list-horizontal__table\"><div class=\"ck-list-horizontal__table-item\"><div class=\"ck-list-horizontal__image-wrapper\">&nbsp;</div><div class=\"ck-list-horizontal__text\"><div class=\"ck-list-horizontal__title\">6 автоматических программ массажа</div>У Smart 5 есть 3 автоматические программы массажа спины и три программы массажа ног, которые вы можете комбинировать, исходя из своих пожеланий и потребностей.</div></div><div class=\"ck-list-horizontal__table-item ck-list-horizontal__table-item_type_narrow-45\">&nbsp;</div><div class=\"ck-list-horizontal__table-item\"><div class=\"ck-list-horizontal__image-wrapper\">&nbsp;</div><div class=\"ck-list-horizontal__text\"><div class=\"ck-list-horizontal__title\">Роликовый массаж спины</div>Три вида роликового массажа спины с регулировкой интенсивности и выбором зоны массажа.</div></div><div class=\"ck-list-horizontal__table-item ck-list-horizontal__table-item_type_narrow-45\">&nbsp;</div><div class=\"ck-list-horizontal__table-item\"><div class=\"ck-list-horizontal__image-wrapper\">&nbsp;</div><div class=\"ck-list-horizontal__text\"><div class=\"ck-list-horizontal__title\">Массаж ног с прогревом</div>Массажер для ног осуществляет роликовый и компрессионный массаж с прогревом. Массаж ног класса люкс, сидя в уютном домашнем кресле &ndash; Casada снова превосходит самые смелые ожидания.</div></div></div></div><p>&nbsp; &nbsp;<img alt=\"\" src=\"https://images.ru.prom.st/877000375_877000375.jpg?PIMAGE_ID=877000375\" style=\"width: 364px; height: 295px;\" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img alt=\"\" class=\"\" src=\"https://images.ru.prom.st/877000543_877000543.jpg?PIMAGE_ID=877000543\" style=\"width: 401px; height: 284px; float: right;\" /></p>",
+        "group_numb": 10000000,
+        "category_link": "https://tiu.ru/used",
+        "in_stock": "+",
+        "is_used": true,
+        "warranty": true,
+        "condition": "Отличное, без потертостей",
+        "store": "Нижний Новгород",
+        "img": ["https://images.ru.prom.st/876996938_massazhnoe-kreslo-casada.jpg"],
+        "id_subcategory": 200918,
+        "manufacture": "Casada",
+        "country": "Китай",
+        "price_per": "-",
+        "marker": null,
+        "sales": null,
+        "sales_date_for": null,
+        "sales_date_to": null,
+        "props": [
+            {
+            "name": "Состояние",
+            "value": "Отличное, без потертостей",
+            "sufix": null
+            },
+            {
+            "name": "Гарантийный срок",
+            "value": "Есть",
+            "sufix": null
+            },
+            {
+            "name": "Ширина",
+            "value": "76",
+            "sufix": "см"
+            },
+            {
+            "name": "Потребляемая мощность",
+            "value": "70",
+            "sufix": "Вт"
+            },
+            {
+            "name": "Вес",
+            "value": "45,5",
+            "sufix": "кг"
+            },
+            {
+            "name": "Тип управления",
+            "value": "Автоматическое/Ручное",
+            "sufix": null
+            },
+            {
+            "name": "Высота",
+            "value": "107,5",
+            "sufix": "см"
+            },
+            {
+            "name": "Цвет",
+            "value": "Коричневый",
+            "sufix": null
+            },
+            {
+            "name": "Область массажа",
+            "value": ["Бедра, Икры, Лодыжки, Плечи, Поясница, Спина, Ступни, Талия, Шея, Ягодицы"],
+            "sufix": null
+            },
+            {
+            "name": "Вид массажного воздействия",
+            "value": ["Разминание, Точечный массаж, Массаж Шиацу, Роликовый массаж, Постукивание, Похлопывание"],
+            "sufix": null
+            },
+            {
+            "name": "Ручное программирование",
+            "value": "Да",
+            "sufix": null
+            },
+            {
+            "name": "Материал",
+            "value": "Искусственная кожа",
+            "sufix": null
+            },
+            {
+            "name": "Глубина",
+            "value": "76",
+            "sufix": "см"
+            },
+            {
+            "name": "Количество роликов",
+            "value": "4",
+            "sufix": null
+            },
+            {
+            "name": "Возможность выбора области массажа",
+            "value": "Да",
+            "sufix": null
+            },
+            {
+            "name": "Количество программ",
+            "value": "6",
+            "sufix": "шт."
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            }
+        ]
+    },
+    {
+        "id": 11111114,
+        "code": "casada-hilton-2-cream-khilton-2-kremovyy",
+        "title": "Заказать массажное кресло CASADA Hilton 2 cream Хилтон 2 кремовый в интернет-магазине Массажер.Маркет",
+        "desc": "CASADA Hilton 2 cream / Хилтон 2 кремовое массажное кресло купить в интернет-магазине с доставкой по лучшей цене! Описание, характеристики и фото.",
+        "article": "-",
+        "name": "CASADA Hilton 2 cream (Хилтон 2 кремовый)",
+        "price": 250000,
+        "description": "<img alt=\"Массажное кресло Casada Hilton 2\" src=\"https://xn--24-6kcazf3bybfa8i.xn--p1ai/upload/medialibrary/453/4539e7cf10f943fbe614fe2ec3cef15d.png\" style=\"width: 573px; height: 490px;\" title=\"Массажное кресло Casada Hilton 2\" /><img alt=\"Массажное кресло Casada Hilton 2\" src=\"https://xn--24-6kcazf3bybfa8i.xn--p1ai/upload/medialibrary/15c/15c43000dee5b697cfdab0cfcaddf4ab.png\" style=\"width: 564px; height: 482px;\" title=\"Массажное кресло Casada Hilton 2\" /><h2>Массажное кресло Casada Hilton 2</h2><h3>Многофункциональность по приемлемой стоимости</h3><p>Массажное кресло Хилтон 2 завоевало огромную популярность на рынке услуг массажа. Оно отличается комфортабельностью и многофункциональностью. Далеко не все кресла для массажа имеют столь&nbsp;<strong>широкий набор функций</strong>&nbsp;по такой низкой стоимости! С помощью данного приспособления можно выполнять похлопывающий, разминающий, растягивающий, точечный, компрессионный и другие массажи.</p><p>Кресло CASADA Hilton 2 обладает немаловажной особенностью &ndash; наличием&nbsp;<strong>функции сканирования тела человека</strong>&nbsp;в трёхмерном разрешении, что позволяет выбрать индивидуальную программу массажа.</p><p>Hilton 2 имеет также&nbsp;<strong>функцию &laquo;невесомость&raquo; (Zero-G)</strong>, которая обеспечивает комфортное положения тела человека (уровень ног находится выше уровня головы). Это обеспечивает максимальное расслабление тела человека во время сеанса массажа и получение приятных ощущений.</p><p><img alt=\"фото Casada Hilton 2 zero space\" src=\"https://xn--24-6kcazf3bybfa8i.xn--p1ai/upload/medialibrary/0d8/0d8decbd1227beb0c4cae0dbe62173e1.jpg\" title=\"фото Casada Hilton 2 zero space\" width=\"100%\" /></p><h3>Автоматические программы</h3><p>В кресло встроена автоматическая&nbsp;<strong>программа YOGA</strong>, благодаря которой можно эффективно растягивать мышцы позвоночника и ног. При выполнении массажа обеспечивается стимуляция кровообращения, что способствует улучшению функций органов, снятию усталости и ускорению обмена веществ.</p><h3>Массаж ног</h3><p>При массаже икр и стоп совместно проводится растяжка их мышц. Такая техника способствует повышению гибкости, за счёт&nbsp;<strong>улучшения кровообращения</strong>. Регулярный массаж ног и икр помогает организму естественным способом справиться с интоксикацией, а специальная диета лишь усилит эффект.</p><h3>Подогрев и ролики</h3><p>Сочетание воздушных камер и четырёх роликов в технологии выполнения массажа устраняет излишний тонус и скованность мышц, а подогрев подарит приятные ощущения и<strong>&nbsp;чувство расслабления</strong>.</p><p><img alt=\"фото Casada Hilton 2 массаж ног\" src=\"https://xn--24-6kcazf3bybfa8i.xn--p1ai/upload/medialibrary/160/160436c29c466125a8ab39d628b5970a.jpg\" title=\"фото Casada Hilton 2 массаж ног\" /></p><h3>Обновленный пульт управления</h3><img alt=\"фото Casada Hilton 2 пульт1\" src=\"https://xn--24-6kcazf3bybfa8i.xn--p1ai/upload/medialibrary/dea/deaf54b006d7fa18129772ed6f850837.png\" title=\"фото Casada Hilton 2 пульт1\" /><img alt=\"фото Casada Hilton 2 пульт2\" src=\"https://xn--24-6kcazf3bybfa8i.xn--p1ai/upload/medialibrary/0b1/0b10269af04c9250e46661ce0f282d03.png\" title=\"фото Casada Hilton 2 пульт2\" /><img alt=\"фото Casada Hilton 2 пульт3\" src=\"https://xn--24-6kcazf3bybfa8i.xn--p1ai/upload/medialibrary/77f/77f14c831c02f68dfdc27150362e539d.jpg\" title=\"фото Casada Hilton 2 пульт3\" /><img alt=\"фото Casada Hilton 2 пульт4\" src=\"https://xn--24-6kcazf3bybfa8i.xn--p1ai/upload/medialibrary/378/378a872de53a829f820eaa4ae408e07a.jpg\" title=\"фото Casada Hilton 2 пульт4\" /><h3>3D массаж</h3><p>На классических креслах ролики вращаются вдоль всей спины в разных направлениях, а принцип работы Hilton 2 заключается в их перемещении вперед и назад, четко повторяя контуры тела.</p><p>Кресло также имеет функцию 3D, благодаря чему обеспечивается движение роликов&nbsp;<strong>сразу в нескольких плоскостях</strong>: вверх, вниз, влево и вправо, позволяя массировать даже самые глубокие мышцы.</p><p>Во время массажного сеанса ролики надежно удерживают массируемую область тела, а по завершению процедуры автоматически заходят внутрь кресла.</p><p><img alt=\"фото Casada Hilton 2 3d массаж\" src=\"https://xn--24-6kcazf3bybfa8i.xn--p1ai/upload/medialibrary/9cd/9cd1f22d5fa067350f276fd3dc17d954.png\" style=\"width: 515px; height: 553px;\" title=\"фото Casada Hilton 2 3d массаж\" /><img alt=\"фото Casada Hilton 2 функции\" class=\"\" src=\"https://xn--24-6kcazf3bybfa8i.xn--p1ai/upload/medialibrary/641/6418f9fde6a25e20a344e67140839cf8.jpg\" style=\"width: 703px; height: 746px;\" title=\"фото Casada Hilton 2 функции\" /></p><h3>Музыка во время сеанса массажа</h3><p>Благодаря музыке можно насладиться в полной мере расслабляющим массажем. Любимые аудиозаписи можно воспроизвести благодаря подключенному гаджету (разъём 3,5 мм). В верхней части кресла&nbsp;<strong>имеются колонки</strong>, за счёт чего музыка хорошо слышна пользователю.</p><h3>Функция невесомости Zero-G</h3><p>Находясь в массажном кресле, нагрузка от массы тела распределяется равномерно &ndash; это позволяет&nbsp;<strong>ощущать невесомость</strong>. Такая поза является безопасной, а также обеспечивает циркуляцию крови и полное расслабление. Благодаря плотному соприкосновению с креслом проводится глубокий массаж спины.</p><h3>Уникальные функции:</h3><ul><li>Компрессия - 52 подушки</li><li>6 авто + 6 ручных программ</li><li>удлиненная каретка с проработкой ягодиц</li><li>подвижная спинка за счет этого качественный Йога массаж</li><li>роликовый + компрессионный массаж стоп - открытая подножка</li><li>прогрев в области спины</li><li>воздушную компрессию можно отключать/включать по необходимым зонам (в ручных программах)</li><li>возможность точечного (Spot) и зонального массажа (кнопка Portion: спина, бедра, ягодицы, спина + бедра, бедра + ягодицы)</li><li>Есть возможность остановить массаж в любое время, нажав просто на кнопку Pause</li><li>3D-массаж, сканирование тела</li><li>Возможность регулировки ширины и скорости роликов</li></ul>",
+        "group_numb": 10000000,
+        "category_link": "https://tiu.ru/used",
+        "in_stock": "+",
+        "is_used": true,
+        "warranty": true,
+        "condition": "Отличное, без повреждений",
+        "store": "Нижний Новгород",
+        "img": [
+            "https://images.ru.prom.st/902984175_casada-hilton-2.jpg", 
+            "https://images.ru.prom.st/902984176_casada-hilton-2.jpg"
+        ],
+        "id_subcategory": 200918,
+        "manufacture": "Casada",
+        "country": "Китай",
+        "price_per": "-",
+        "marker": null,
+        "sales": null,
+        "sales_date_for": null,
+        "sales_date_to": null,
+        "props": [
+            {
+            "name": "Состояние",
+            "value": "Отличное, без повреждений",
+            "sufix": null
+            },
+            {
+            "name": "Гарантийный срок",
+            "value": "Есть",
+            "sufix": null
+            },
+            {
+            "name": "Ширина",
+            "value": "79",
+            "sufix": "см"
+            },
+            {
+            "name": "Потребляемая мощность",
+            "value": "230",
+            "sufix": "Вт"
+            },
+            {
+            "name": "Тип управления",
+            "value": "Автоматическое/Ручное",
+            "sufix": null
+            },
+            {
+            "name": "Высота",
+            "value": "122",
+            "sufix": "см"
+            },
+            {
+            "name": "Цвет",
+            "value": "Бежевый",
+            "sufix": null
+            },
+            {
+            "name": "Область массажа",
+            "value": ["Бедра, Икры, Лодыжки, Плечи, Поясница, Руки, Спина, Ступни, Талия, Шея, Ягодицы"],
+            "sufix": null
+            },
+            {
+            "name": "Пульт дистанционного управления",
+            "value": "Нет",
+            "sufix": null
+            },
+            {
+            "name": "Вид массажного воздействия",
+            "value": ["Разминание, Воздушно-компрессионный массаж, Растягивание, Акупунктура, Растирание, Точечный массаж, Массаж Шиацу, Роликовый массаж, Комбинированный, Инфракрасное прогревание"],
+            "sufix": null
+            },
+            {
+            "name": "Ручное программирование",
+            "value": "Да",
+            "sufix": null
+            },
+            {
+            "name": "Материал",
+            "value": "Искусственная кожа",
+            "sufix": null
+            },
+            {
+            "name": "Глубина",
+            "value": "135",
+            "sufix": "см"
+            },
+            {
+            "name": "Количество роликов",
+            "value": "4",
+            "sufix": null
+            },
+            {
+            "name": "Возможность выбора области массажа",
+            "value": "Да",
+            "sufix": null
+            },
+            {
+            "name": "Количество программ",
+            "value": "6",
+            "sufix": "шт."
+            },
+            {
+            "name": "Защита от перегрева",
+            "value": "Да",
+            "sufix": null
+            },
+            {
+            "name": "Дисплей",
+            "value": "Да",
+            "sufix": null
+            },
+            {
+            "name": "Таймер",
+            "value": "Да",
+            "sufix": null
+            },
+            {
+            "name": "Система нулевой гравитации (ZERO-G)",
+            "value": "Да",
+            "sufix": null
+            },
+            {
+            "name": "Подсветка дисплея",
+            "value": "Да",
+            "sufix": null
+            },
+            {
+            "name": "Функция синхронизация с музыкой",
+            "value": "Нет",
+            "sufix": null
+            },
+            {
+            "name": "Максимальный вес пользователя",
+            "value": "120",
+            "sufix": "кг"
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            }
+        ]
+    },
+    {
+        "id": 11111115,
+        "code": "casada-hilton-2-cream-khilton-2-seroe",
+        "title": "Заказать массажное кресло CASADA Hilton 2 grey Хилтон 2 серое в интернет-магазине Массажер.Маркет",
+        "desc": "CASADA Hilton 2 grey / Хилтон 2 серое массажное кресло купить в интернет-магазине с доставкой по лучшей цене! Описание, характеристики и фото.",
+        "article": "-",
+        "name": "CASADA Hilton 2 grey (Хилтон 2 серое)",
+        "price": 250000,
+        "description": "<img alt=\"Массажное кресло Casada Hilton 2\" src=\"https://xn--24-6kcazf3bybfa8i.xn--p1ai/upload/medialibrary/453/4539e7cf10f943fbe614fe2ec3cef15d.png\" style=\"width: 573px; height: 490px;\" title=\"Массажное кресло Casada Hilton 2\" /><img alt=\"Массажное кресло Casada Hilton 2\" src=\"https://xn--24-6kcazf3bybfa8i.xn--p1ai/upload/medialibrary/15c/15c43000dee5b697cfdab0cfcaddf4ab.png\" style=\"width: 564px; height: 482px;\" title=\"Массажное кресло Casada Hilton 2\" /><h2>Массажное кресло Casada Hilton 2</h2><h3>Многофункциональность по приемлемой стоимости</h3><p>Массажное кресло Хилтон 2 завоевало огромную популярность на рынке услуг массажа. Оно отличается комфортабельностью и многофункциональностью. Далеко не все кресла для массажа имеют столь&nbsp;<strong>широкий набор функций</strong>&nbsp;по такой низкой стоимости! С помощью данного приспособления можно выполнять похлопывающий, разминающий, растягивающий, точечный, компрессионный и другие массажи.</p><p>Кресло CASADA Hilton 2 обладает немаловажной особенностью &ndash; наличием&nbsp;<strong>функции сканирования тела человека</strong>&nbsp;в трёхмерном разрешении, что позволяет выбрать индивидуальную программу массажа.</p><p>Hilton 2 имеет также&nbsp;<strong>функцию &laquo;невесомость&raquo; (Zero-G)</strong>, которая обеспечивает комфортное положения тела человека (уровень ног находится выше уровня головы). Это обеспечивает максимальное расслабление тела человека во время сеанса массажа и получение приятных ощущений.</p><p><img alt=\"фото Casada Hilton 2 zero space\" src=\"https://xn--24-6kcazf3bybfa8i.xn--p1ai/upload/medialibrary/0d8/0d8decbd1227beb0c4cae0dbe62173e1.jpg\" title=\"фото Casada Hilton 2 zero space\" width=\"100%\" /></p><h3>Автоматические программы</h3><p>В кресло встроена автоматическая&nbsp;<strong>программа YOGA</strong>, благодаря которой можно эффективно растягивать мышцы позвоночника и ног. При выполнении массажа обеспечивается стимуляция кровообращения, что способствует улучшению функций органов, снятию усталости и ускорению обмена веществ.</p><h3>Массаж ног</h3><p>При массаже икр и стоп совместно проводится растяжка их мышц. Такая техника способствует повышению гибкости, за счёт&nbsp;<strong>улучшения кровообращения</strong>. Регулярный массаж ног и икр помогает организму естественным способом справиться с интоксикацией, а специальная диета лишь усилит эффект.</p><h3>Подогрев и ролики</h3><p>Сочетание воздушных камер и четырёх роликов в технологии выполнения массажа устраняет излишний тонус и скованность мышц, а подогрев подарит приятные ощущения и<strong>&nbsp;чувство расслабления</strong>.</p><p><img alt=\"фото Casada Hilton 2 массаж ног\" src=\"https://xn--24-6kcazf3bybfa8i.xn--p1ai/upload/medialibrary/160/160436c29c466125a8ab39d628b5970a.jpg\" title=\"фото Casada Hilton 2 массаж ног\" /></p><h3>Обновленный пульт управления</h3><img alt=\"фото Casada Hilton 2 пульт1\" src=\"https://xn--24-6kcazf3bybfa8i.xn--p1ai/upload/medialibrary/dea/deaf54b006d7fa18129772ed6f850837.png\" title=\"фото Casada Hilton 2 пульт1\" /><img alt=\"фото Casada Hilton 2 пульт2\" src=\"https://xn--24-6kcazf3bybfa8i.xn--p1ai/upload/medialibrary/0b1/0b10269af04c9250e46661ce0f282d03.png\" title=\"фото Casada Hilton 2 пульт2\" /><img alt=\"фото Casada Hilton 2 пульт3\" src=\"https://xn--24-6kcazf3bybfa8i.xn--p1ai/upload/medialibrary/77f/77f14c831c02f68dfdc27150362e539d.jpg\" title=\"фото Casada Hilton 2 пульт3\" /><img alt=\"фото Casada Hilton 2 пульт4\" src=\"https://xn--24-6kcazf3bybfa8i.xn--p1ai/upload/medialibrary/378/378a872de53a829f820eaa4ae408e07a.jpg\" title=\"фото Casada Hilton 2 пульт4\" /><h3>3D массаж</h3><p>На классических креслах ролики вращаются вдоль всей спины в разных направлениях, а принцип работы Hilton 2 заключается в их перемещении вперед и назад, четко повторяя контуры тела.</p><p>Кресло также имеет функцию 3D, благодаря чему обеспечивается движение роликов&nbsp;<strong>сразу в нескольких плоскостях</strong>: вверх, вниз, влево и вправо, позволяя массировать даже самые глубокие мышцы.</p><p>Во время массажного сеанса ролики надежно удерживают массируемую область тела, а по завершению процедуры автоматически заходят внутрь кресла.</p><p><img alt=\"фото Casada Hilton 2 3d массаж\" src=\"https://xn--24-6kcazf3bybfa8i.xn--p1ai/upload/medialibrary/9cd/9cd1f22d5fa067350f276fd3dc17d954.png\" style=\"width: 515px; height: 553px;\" title=\"фото Casada Hilton 2 3d массаж\" /><img alt=\"фото Casada Hilton 2 функции\" class=\"\" src=\"https://xn--24-6kcazf3bybfa8i.xn--p1ai/upload/medialibrary/641/6418f9fde6a25e20a344e67140839cf8.jpg\" style=\"width: 703px; height: 746px;\" title=\"фото Casada Hilton 2 функции\" /></p><h3>Музыка во время сеанса массажа</h3><p>Благодаря музыке можно насладиться в полной мере расслабляющим массажем. Любимые аудиозаписи можно воспроизвести благодаря подключенному гаджету (разъём 3,5 мм). В верхней части кресла&nbsp;<strong>имеются колонки</strong>, за счёт чего музыка хорошо слышна пользователю.</p><h3>Функция невесомости Zero-G</h3><p>Находясь в массажном кресле, нагрузка от массы тела распределяется равномерно &ndash; это позволяет&nbsp;<strong>ощущать невесомость</strong>. Такая поза является безопасной, а также обеспечивает циркуляцию крови и полное расслабление. Благодаря плотному соприкосновению с креслом проводится глубокий массаж спины.</p><h3>Уникальные функции:</h3><ul><li>Компрессия - 52 подушки</li><li>6 авто + 6 ручных программ</li><li>удлиненная каретка с проработкой ягодиц</li><li>подвижная спинка за счет этого качественный Йога массаж</li><li>роликовый + компрессионный массаж стоп - открытая подножка</li><li>прогрев в области спины</li><li>воздушную компрессию можно отключать/включать по необходимым зонам (в ручных программах)</li><li>возможность точечного (Spot) и зонального массажа (кнопка Portion: спина, бедра, ягодицы, спина + бедра, бедра + ягодицы)</li><li>Есть возможность остановить массаж в любое время, нажав просто на кнопку Pause</li><li>3D-массаж, сканирование тела</li><li>Возможность регулировки ширины и скорости роликов</li></ul>",
+        "group_numb": 10000000,
+        "category_link": "https://tiu.ru/used",
+        "in_stock": "+",
+        "is_used": true,
+        "warranty": true,
+        "condition": "Отличное, без повреждений",
+        "store": "Нижний Новгород",
+        "img": [
+            "https://images.ru.prom.st/902984275_casada-hilton-2.jpg",
+            "https://images.ru.prom.st/902984276_casada-hilton-2.jpg",
+            "https://images.ru.prom.st/902984277_casada-hilton-2.jpg"
+        ],
+        "id_subcategory": 200918,
+        "manufacture": "Casada",
+        "country": "Китай",
+        "price_per": "-",
+        "marker": null,
+        "sales": null,
+        "sales_date_for": null,
+        "sales_date_to": null,
+        "props": [
+            {
+            "name": "Состояние",
+            "value": "Отличное, без повреждений",
+            "sufix": null
+            },
+            {
+            "name": "Гарантийный срок",
+            "value": "Есть",
+            "sufix": null
+            },
+            {
+            "name": "Ширина",
+            "value": "79",
+            "sufix": "см"
+            },
+            {
+            "name": "Потребляемая мощность",
+            "value": "230",
+            "sufix": "Вт"
+            },
+            {
+            "name": "Тип управления",
+            "value": "Автоматическое/Ручное",
+            "sufix": null
+            },
+            {
+            "name": "Высота",
+            "value": "122",
+            "sufix": "см"
+            },
+            {
+            "name": "Цвет",
+            "value": "Бежевый",
+            "sufix": null
+            },
+            {
+            "name": "Область массажа",
+            "value": ["Бедра, Икры, Лодыжки, Плечи, Поясница, Руки, Спина, Ступни, Талия, Шея, Ягодицы"],
+            "sufix": null
+            },
+            {
+            "name": "Пульт дистанционного управления",
+            "value": "Нет",
+            "sufix": null
+            },
+            {
+            "name": "Вид массажного воздействия",
+            "value": ["Разминание, Воздушно-компрессионный массаж, Растягивание, Акупунктура, Растирание, Точечный массаж, Массаж Шиацу, Роликовый массаж, Комбинированный, Инфракрасное прогревание"],
+            "sufix": null
+            },
+            {
+            "name": "Ручное программирование",
+            "value": "Да",
+            "sufix": null
+            },
+            {
+            "name": "Материал",
+            "value": "Искусственная кожа",
+            "sufix": null
+            },
+            {
+            "name": "Глубина",
+            "value": "135",
+            "sufix": "см"
+            },
+            {
+            "name": "Количество роликов",
+            "value": "4",
+            "sufix": null
+            },
+            {
+            "name": "Возможность выбора области массажа",
+            "value": "Да",
+            "sufix": null
+            },
+            {
+            "name": "Количество программ",
+            "value": "6",
+            "sufix": "шт."
+            },
+            {
+            "name": "Защита от перегрева",
+            "value": "Да",
+            "sufix": null
+            },
+            {
+            "name": "Дисплей",
+            "value": "Да",
+            "sufix": null
+            },
+            {
+            "name": "Таймер",
+            "value": "Да",
+            "sufix": null
+            },
+            {
+            "name": "Система нулевой гравитации (ZERO-G)",
+            "value": "Да",
+            "sufix": null
+            },
+            {
+            "name": "Подсветка дисплея",
+            "value": "Да",
+            "sufix": null
+            },
+            {
+            "name": "Функция синхронизация с музыкой",
+            "value": "Нет",
+            "sufix": null
+            },
+            {
+            "name": "Максимальный вес пользователя",
+            "value": "120",
+            "sufix": "кг"
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            }
+        ]
+    },
+    {
+        "id": 11111116,
+        "code": "massazher-dlya-nog-casada-canoo-5",
+        "title": "Заказать массажер для ног Casada Canoo 5 в интернет-магазине Массажер.Маркет",
+        "desc": "Casada Canoo 5 массажер для ног купить в интернет-магазине с доставкой по лучшей цене! Описание, характеристики и фото.",
+        "article": "CMK-119",
+        "name": "Массажер для ног Casada Canoo 5",
+        "price": 50000,
+        "description": "<div class=\"col\"><div class=\"row\" id=\"bx_117848907_323_tab_containers\"><div class=\"col\"><div class=\"product-item-detail-tab-content active\" data-entity=\"tab-container\" data-value=\"description\" itemprop=\"description\" style=\"display: block;\"><div><img alt=\"\" src=\"https://images.ru.prom.st/852371956_852371956.jpg?PIMAGE_ID=852371956\" style=\"width: 640px; height: 393px;\" /></div><h4>Массажер для ног Casada Canoo 5</h4>&nbsp;<div>Очередная модель массажера Canoo, выпущенная немецкой компанией Casada, предназначена для массажа стоп, икр, коленей и бёдер.</div>Всегда безупречный массаж<br />Как показал опрос, который провела Федеральная статистическая служба Германии, около 42 процентов женщин будут носить понравившиеся им туфли, даже если они являются причиной дискомфорта.<br />&nbsp;<div>Это привело к тому, что около 73 процентов женщин имеют серьезные проблемы, возникшие из-за неудобной обуви.</div><h3>Как же быть, если вы привыкли ходить на каблуках?</h3><br />В первую очередь врачи советуют пользоваться мягкими стельками и кремом, улучшающим кровообращение. Также желательно делать упражнения, укрепляющие стопу и регулярно давать отдых ногам.<br />Для этого прекрасно подойдет массажер Canoo 5, который не только сделает массаж, но и сможет укрепить стопы. Так, он станет надежным союзником в борьбе за красивые и здоровые ноги.<h3>Массажер имеет два режима работы:</h3><ul><li>Шиацу &ndash; улучшает кровообращение, укрепляя мышцы;</li><li>Расслабление &ndash; оказывает действие на рефлекторные точки ног, способствуя быстрому восстановлению.</li></ul><img alt=\"8dd222fd2d6ba1331d3bf658fca4f53a.jpg\" src=\"https://images.ru.prom.st/852372042_852372042.jpg?PIMAGE_ID=852372042\" style=\"width: 640px; height: 572px;\" title=\"Массажер для ног Casada Canoo 5\" /><h3>Принцип работы</h3><br />Высокая эффективность автоматизированной программы обеспечивается 44-мя массажными роликами, имеющими различный размер, качественно обрабатывающий ступни, и 30-ю воздушными подушками, равномерно распределенными по ногам, икрам, коленям, бёдрам.<br /><br />Работая с массажером, можно выбрать компрессионный или роликовый массаж, а также запустить их оба одновременно. Стандартная продолжительность сеанса составляет 15 минут, но при желании может быть уменьшена.<br />Разрабатывая Canoo 5, специалисты учли каждую мелочь, благодаря чему эксплуатация и хранение становятся максимально комфортными.<h3>Вот лишь некоторые из достоинств устройства:</h3><h3>&nbsp;Работа с акупунктурными точками <img alt=\"272e62a90b59ca4b5cdd30477e560dec.jpg\" src=\"https://images.ru.prom.st/852372088_852372088.jpg?PIMAGE_ID=852372088\" style=\"width: 640px; height: 470px;\" title=\"Массажер для ног Casada Canoo 5\" /></h3><p>Массажер прорабатывает восемь наиболее важных точек, расположенных на икрах, лодыжках и бёдрах;</p><h3>Акупрессурный массаж</h3>выполняется надувающимися и сдувающимися воздушными подушками. Процедура имитирует естественные рефлексы мышц, благотворно влияя на зону стоп и икр;<br />&nbsp;<h3>Массаж гуаша</h3><img alt=\"74a2dc2c8717d9a9bcd01f0ee5f59723.jpg\" src=\"https://images.ru.prom.st/852372165_852372165.jpg?PIMAGE_ID=852372165\" style=\"width: 408px; height: 297px;\" title=\"Массажер для ног Casada Canoo 5\" /><br />При работе ролики оказывают легкое давление на ступни, тем самым раскрывая кровеносные сосуды, существенно улучшая кровообращение. При использовании с акупрессурой, массаж гуаша воздействует на точки Шу, повышая эффективность стимулирования, снижая усталость и боль;<h3>Массаж бёдер</h3>Становится особенно легким и эффективным благодаря верхней части Canoo 5, раскрывающейся до 110 градусов;<h3>Прогрев</h3>&nbsp;<br />Дарит ногам ощущение максимального комфорта, позволяя полностью расслабиться;<h3>Компрессионный массаж</h3>Прорабатывает всю поверхность ног от стоп до бёдер, улучшая движение лимфы. Всего через несколько минут массажа усталость уйдет, вы почувствуете необычную легкость.<br /><br />Дополнительными достоинствами можно назвать великолепный дизайн, позволяющий массажеру вписываться в интерьер любого помещения и легкость транспортировки, обеспечиваемая двумя подвижными роликами, установленными на нижней панели устройства</div></div></div></div><div class=\"col-sm-4 col-md-3\">&nbsp;</div>",
+        "group_numb": 10000000,
+        "category_link": "https://tiu.ru/used",
+        "in_stock": "+",
+        "is_used": true,
+        "warranty": true,
+        "condition": "Хорошее",
+        "store": "Нижний Новгород",
+        "img": [
+            "https://images.ru.prom.st/852371331_massazher-dlya-nog.jpg",
+            "https://images.ru.prom.st/852371333_massazher-dlya-nog.jpg",
+            "https://images.ru.prom.st/852371332_massazher-dlya-nog.jpg"
+        ],
+        "id_subcategory": 200918,
+        "manufacture": "Casada",
+        "country": "Китай",
+        "price_per": "-",
+        "marker": null,
+        "sales": null,
+        "sales_date_for": null,
+        "sales_date_to": null,
+        "props": [
+            {
+            "name": "Состояние",
+            "value": "Хорошее",
+            "sufix": null
+            },
+            {
+            "name": "Гарантийный срок",
+            "value": "Есть",
+            "sufix": null
+            },
+            {
+            "name": "Ширина",
+            "value": "500",
+            "sufix": "мм"
+            },
+            {
+            "name": "Потребляемая мощность",
+            "value": "120",
+            "sufix": "Вт"
+            },
+            {
+            "name": "Вес",
+            "value": "20",
+            "sufix": "кг"
+            },
+            {
+            "name": "Тип управления",
+            "value": "Механическое",
+            "sufix": null
+            },
+            {
+            "name": "Высота",
+            "value": "600",
+            "sufix": "мм"
+            },
+            {
+            "name": "Глубина",
+            "value": "450",
+            "sufix": "мм"
+            },
+            {
+            "name": "Тип питания",
+            "value": "Сеть 220 В",
+            "sufix": null
+            },
+            {
+            "name": "Тип",
+            "value": "Массажер для ног",
+            "sufix": null
+            },
+            {
+            "name": "Функциональность массажера",
+            "value": ["Инфракрасное излучение ,Разминающий массаж ,Компрессионный массаж ,Роликовый массаж"],
+            "sufix": null
+            },
+            {
+            "name": "Цвет корпуса",
+            "value": "Черный",
+            "sufix": null
+            },
+            {
+            "name": "Область применения массажера",
+            "value": ["Икры ,Ступни ,Лодыжки ,Пальцы ног"],
+            "sufix": null
+            },
+            {
+            "name": "Регулировка интенсивности массажа",
+            "value": "ступенчатая",
+            "sufix": null
+            },
+            {
+            "name": "Регулировка угла наклона",
+            "value": "Да",
+            "sufix": null
+            },
+            {
+            "name": "Регулировка высоты",
+            "value": "Нет",
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            },
+            {
+            "name": null,
+            "value": null,
+            "sufix": null
+            }
+        ]
+    }
+]

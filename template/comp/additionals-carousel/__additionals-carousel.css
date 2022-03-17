@@ -1,0 +1,116 @@
+.additional-item__cover {
+    width: 100%;
+    height: auto;
+    position: relative;
+    padding-bottom: 100%;
+    display: flex;
+}
+
+.additional-item__cover-img {
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.additional-item__cover-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+a.additional-item__cover {}
+
+.additional-item__cover picture {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.additional-item__cover picture img {
+    object-fit: cover;
+}
+.additionals-carousel .swiper-container.--products {
+    overflow: hidden;
+}
+
+.additional-item .mini-basket-item__counter {
+    height: 4rem;
+    background-color: #fff;
+    border-radius: 1rem;
+}
+
+.additional-item .mini-basket-item__counter-btn {
+    width: 1.5rem;
+    height: 1.5rem;
+    background-color: var(--color__fill-4);
+}
+
+.additional-item .mini-basket-item__counter-btn-icon {
+    width: .75rem;
+    height: .75rem;
+}
+
+.additional-item .mini-basket-item__counter-btn:last-child {
+    margin-top: .1875rem;
+}
+
+.additional-item {
+    background-color: transparent;
+    border-radius: 1.5rem;
+    padding: 0 !important;
+    border: 1px solid #eeeeee;
+    overflow: hidden;
+}
+
+.additional-item .product-item__desc {
+    padding: 0 1rem 1rem 1rem;
+}
+
+.additional-item .product-item__add-btn, .additional-item .product-item__del-btn.btn {
+    height: 3rem;
+    border-radius: .75rem;
+    position: relative;
+    opacity: 1;
+    pointer-events: all;
+    background-color: var(--color__dark);
+    color: #fff;
+    width: 100%;
+    bottom: inherit;
+    right: inherit;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    font-weight: 600;
+}
+
+.additional-item .product-item__del-btn {
+    border: .125rem solid rgba(51, 51, 51, 0.32);
+    background-color: transparent !important;
+    color: var(--color__dark) !important;
+}
+
+.additional-item .product-item__add-btn:hover {
+    background-color: var(--color__fill-1);
+    color: white;
+    font-weight: 600;
+}
+
+.additional-item .product-item__del-btn:hover {
+    border-color: var(--color__fill-1);
+    background-color: var(--color__fill-1) !important;
+    color: #fff !important;
+}
+
+@media (max-width: 640px) {
+
+    .additional-item .counter-calc__input {
+        width: 6rem;
+    }
+
+    .additional-item .mini-basket-item__counter-btn {
+        margin: 0 !important;
+    }
+
+    .additional-item .mini-basket-item__counter {
+        height: auto;
+    }
+
+}

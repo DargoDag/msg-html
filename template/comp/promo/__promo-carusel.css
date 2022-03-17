@@ -1,0 +1,40 @@
+.promo-carusel .catalog-item__wrap {
+    height: 15.5rem;
+}
+
+.promo-carusel .catalog-item {
+    padding: 2rem;
+    background-color: var(--color__fill-4);
+    border-radius: 1.5rem;
+}
+
+.promo-carusel .catalog-item__title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--color__dark);
+}
+
+.promo-carusel .catalog-item__descr {
+    max-width: 12.5rem;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    margin-top: 0.3rem;
+}
+
+.promo-carusel .catalog-item__bg-thumb img {
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+}
+
+.promo-carusel {
+    margin-top: 3.625rem;
+    margin-bottom: 4.5rem;
+}
+
+.promo-carusel .catalog-item:hover {
+    border-color: transparent;
+}
+
+.promo-carusel .catalog-item__title:hover {
+    color: var(--color__fill-1);
+}

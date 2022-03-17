@@ -1,0 +1,39 @@
+.brands-carousel .brand-item {
+    height: 7.875rem;
+    padding: 0 3.5rem;
+}
+
+.brands-carousel .swiper-container.--products {
+    filter: drop-shadow(0 1rem 3rem rgba(0, 0, 0, 0.06));
+    overflow: hidden;
+}
+
+.brands-carousel .swiper-container.--products .swiper-slide-next + div + div + div, .swiper-container.--products .swiper-slide.swiper-slide-prev {opacity: 1;pointer-events: all;}
+
+.content__catalog-pagination.--main .pagination {
+    margin-top: 0 !important;
+}
+
+.content__catalog-pagination.--main .pagination__actions {
+    display: none;
+}
+
+.content__catalog-pagination.--main .pagination__show-in {
+    display: none;
+}
+
+.content__catalog-pagination.--main .pagination__load-more {
+    max-width: 100%;
+    height: 5rem;
+    border: 1px solid rgb(217 217 217 / 80%) !important;
+    background-color: transparent;
+}
+
+.content__catalog-pagination.--main .pagination__icon, .content__catalog-pagination.--main .pagination__label {
+    opacity: .7;
+}
+
+.content__catalog-pagination.--main .pagination__load-more:hover {
+    background-color: var(--color__fill-4) !important;
+    border-color: transparent !important;
+}

@@ -1,0 +1,105 @@
+@font-face {
+    font-family: Montserrat;
+    font-display:swap;
+    src: url('/template/core/atoms/fonts/Montserrat-Regular.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: Montserrat;
+    font-display:swap;
+    src: url('/template/core/atoms/fonts/Montserrat-Medium.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: Montserrat;
+    font-display:swap;
+    src: url('/template/core/atoms/fonts/Montserrat-SemiBold.ttf') format('truetype');
+    font-weight: 650;
+    font-style: normal;
+}
+@font-face {
+    font-family: Montserrat;
+    font-display:swap;
+    src: url('/template/core/atoms/fonts/Montserrat-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: Montserrat;
+    font-display:swap;
+    src: url('/template/core/atoms/fonts/Montserrat-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: Montserrat;
+    font-display:swap;
+    src: url('/template/core/atoms/fonts/Montserrat-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: ProximaNova;
+    font-display:swap;
+    src: url('/template/core/atoms/fonts/ProximaNovaT-Thin.woff') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: ProximaNova;
+    font-display:swap;
+    src: url('/template/core/atoms/fonts/ProximaNova-Light.woff') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: ProximaNova;
+    font-display:swap;
+    src: url('/template/core/atoms/fonts/ProximaNova-Regular.woff') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: ProximaNova;
+    font-display:swap;
+    src: url('/template/core/atoms/fonts/ProximaNova-Semibold.woff') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: ProximaNova;
+    font-display:swap;
+    src: url('/template/core/atoms/fonts/ProximaNova-Bold.woff') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: ProximaNova;
+    font-display:swap;
+    src: url('/template/core/atoms/fonts/ProximaNova-Extrabold.woff') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: ProximaNova;
+    font-display:swap;
+    src: url('/template/core/atoms/fonts/ProximaNova-Black.woff') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: DIN-Alternate;
+    font-display:swap;
+    src: url('/template/core/atoms/fonts/DIN-Alternate-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: DIN-Condensed;
+    font-display:swap;
+    src: url('/template/core/atoms/fonts/DIN-Condensed-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}

@@ -1,0 +1,71 @@
+.options.--main .option-item {
+    border-radius: 1.5rem;
+    background-color: #F5F4F1;
+    padding: 2.5rem 3rem 3rem 3rem;
+    border: none;
+    cursor: default;
+    position: relative;
+    overflow: hidden;
+    height: 24.625rem;
+}
+
+.option-item__bg-thumb {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.option-item__desc-wrap {
+    position: relative;
+    z-index: 2;
+}
+
+.option-item__order-btn {
+    position: relative;
+    z-index: 2;
+    font-weight: 600 !important;
+    height: 4rem;
+    border-radius: .875rem;
+    padding: 0 2rem !important;
+    font-size: .875rem;
+    line-height: 1.25rem;
+}
+
+.option-item__bg-thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: scale-down;
+    object-position: bottom right;
+}
+
+.options.--main {
+    gap: 1.5rem;
+}
+
+
+@media (max-width: 640px) {
+
+    .option-item__order-btn {
+        width: 100%;
+        height: 3rem;
+    }
+
+    .options.--main {
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+
+    .options.--main .option-item {
+        padding: 1rem 1.5rem;
+        height: 20rem;
+    }
+
+    .options.--main .option-item:last-child .option-item__bg-thumb {
+        width: 15rem;
+    }
+    
+}

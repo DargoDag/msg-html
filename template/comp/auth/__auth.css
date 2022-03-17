@@ -1,0 +1,147 @@
+.auth__or-label-line {
+    border-bottom: 1px solid var(--color__border);
+}
+
+.auth__or-label-text {
+    opacity: .4;
+}
+
+.auth__form-send-btn {
+    width: 100%;
+}
+
+.show-password {
+    width: 2rem;
+    height: 1.125rem;
+    display: block;
+    position: absolute;
+    right: 2rem;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    transition: all ease .24s;
+    opacity: .24;
+    background-size: contain;
+    background-position: center;
+}
+
+.auth__form-line .big-input__input::placeholder {
+    font-size: 1.25rem;
+    line-height: 1.875rem;
+    font-weight: 400;
+}
+
+.show-password:hover {
+    opacity: 1;
+}
+
+.is-show-pass .show-password {
+    opacity: 1;
+}
+
+
+/* modify */
+
+.auth__head {
+    text-align: center;
+}
+
+.auth__form-line .big-input__title {
+    left: 2rem;
+    font-size: 1.25rem;
+    line-height: 1.875rem;
+    color: var(--color__dark);
+    opacity: .7;
+    font-weight: 500;
+}
+
+.auth__title b {
+    font-weight: 700 !important;
+}
+
+.auth__post-title {
+    color: rgb(51 51 51 / 60%) !important;
+}
+
+.auth__form-line .big-input__input {
+    background-color: var(--color__fill-4);
+    border-radius: 1.5rem;
+    height: 5rem;
+    border: .125rem solid transparent;
+    font-size: 1.25rem;
+    line-height: 1.875rem;
+}
+
+.auth__form-line .big-input:focus-within .big-input__input {
+    box-shadow: 0px 0.5rem 2rem rgb(0 0 0 / 8%);
+    border-color: var(--color__dark);
+}
+
+.auth__form-notifications .alert.--state-error {
+    border-radius: 1rem;
+}
+
+.auth__form-send-btn {
+    border-radius: 1.5rem;
+    font-weight: 600 !important;
+}
+
+.auth__or-btn.auth__login-suid {
+    border-radius: 1.5rem;
+    background-color: rgb(51 51 51 / 6%);
+    color: rgb(51 51 51 / 50%);
+}
+
+.auth__policy .checkbox input:checked + * > .checkbox__label {
+    color: var(--color__dark);
+}
+
+.auth__policy .checkbox input:checked + * > .checkbox__trigger {
+    background-color: var(--color__dark);
+    box-shadow: inset 0px 0px 0px 0.1875rem var(--color__dark);
+}
+
+.auth__post-title .link:hover {
+    opacity: 1;
+    color: var(--color__fill-1);
+}
+
+.auth__post-title .link {
+    color: rgb(51 51 51 / 60%);
+}
+
+
+/* */
+
+
+@media screen and (max-width: 991px) {
+
+    .auth__form-last-password {
+        margin-top: .75rem;
+    }
+    
+    .auth__post-title br {
+        display: none;
+    }
+    
+    .recovery-info__label br {
+        display: none;
+    }
+    
+    .recovery-info__label {
+        font-size: 1.25rem;
+        text-align: center;
+        flex: inherit !important;
+        width: 100% !important;
+    }
+    
+    .recovery-info__icon {
+        margin: 0 !important;
+        margin-bottom: 1rem !important;
+    }
+    
+    .recovery-info {
+        justify-content: center;
+    }
+
+}

@@ -1,0 +1,142 @@
+.why-are-we {
+    background-color: var(--color__fill-4);
+    border-radius: 1.5rem;
+    padding: 2.5rem 2.25rem 3rem 2.25rem;
+}
+
+.why-are-we__title {
+    font-weight: 500;
+}
+
+.why-item {
+    background-color: #fff;
+    border-radius: 1.5rem;
+    padding: 3.5rem 3rem 2.5rem 3rem;
+    position: relative;
+    overflow: hidden;
+    transition: ease all .24s;
+    cursor: pointer;
+}
+
+.why-item__label {
+    text-align: center;
+    line-height: 1.625rem !important;
+}
+
+.why-item__icon {
+    width: 5rem;
+    height: 5rem;
+}
+
+.why-item__icon svg {
+    width: auto;
+    max-width: 100%;
+    height: 100%;
+}
+
+.why-item__desc {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 1.5rem;
+    background-color: var(--color__dark);
+    color: #fff;
+    /* opacity: 0; */
+    pointer-events: none;
+    transition: ease all .24s;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    transform: translateY(110%);
+    overflow-y: scroll;
+    border-radius: 1.5rem;
+}
+
+.why-item__desc::-webkit-scrollbar {
+  width: .25rem;
+}
+
+.why-item__desc::-webkit-scrollbar-thumb {
+  background: var(--color__fill-1);
+  border-radius: 4px;
+}
+
+.why-item:hover {
+    box-shadow: 0 2rem 3rem rgb(0 0 0 / 6%);
+}
+
+.why-are-we__wrap {
+    gap: 1.5rem;
+}
+
+.why-item:hover .why-item__desc {
+    opacity: 1;
+    pointer-events: all;
+    transform: translateY(0);
+}
+
+.why-are-we__sub-items .sub-item {
+    display: flex;
+    padding-top: 2.5rem;
+    border-top: 1px solid rgb(0 0 0 / 12%);
+    margin-top: 2.5rem;
+}
+
+.sub-item__value {
+    font-size: 5.5rem;
+    line-height: 5.5rem;
+    color: var(--color__fill-1);
+    font-weight: 700;
+    font-family: 'DIN-Alternate';
+}
+
+.sub-item__desc {
+    opacity: .66;
+    font-weight: 700;
+    font-family: 'DIN-Alternate';
+    line-height: 1.625rem !important;
+}
+
+.why-are-we__sub-items .sub-item:first-child {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+@media (max-width: 991px) {
+
+    .why-are-we__items {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+}
+
+@media (max-width: 640px) {
+
+    .why-are-we {
+        padding: 1rem 1.5rem;
+    }
+
+    .why-are-we__title {
+        font-weight: 600;
+    }
+
+    .why-are-we__items {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+
+    .why-item {
+        padding: 1rem;
+    }
+
+    .why-item__label {
+        margin-top: 1.5rem !important;
+    }
+
+    .why-are-we__wrap {
+        flex-direction: column;
+        gap: 3rem;
+    }
+    
+}

@@ -1,0 +1,51 @@
+.advantage-item__icon {
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+    background-color: var(--color__fill-4);
+}
+
+.advantage-item__icon svg {
+    width: auto;
+    max-width: 4rem;
+    height: 4rem;
+}
+
+.advantage-item__desc span {
+    font-weight: 700;
+    color: var(--color__fill-1);
+}
+
+.devider-dot {
+    width: .875rem;
+    height: .875rem;
+    border-radius: 50%;
+    background-color: var(--color__fill-4);
+    margin-right: 1rem;
+}
+
+.devider-dot:last-child {
+    margin-right: 0;
+}
+
+.content__advantages-devider {
+    margin-top: 4.5625rem;
+}
+
+.advantage-item__desc {
+    text-align: center;
+}
+
+@media (max-width: 640px) {
+
+    .advantages-items {
+        flex-direction: column;
+        align-items: center;
+        gap: 1.5rem;
+    }
+
+    .content__advantages-devider {
+        display: none;
+    }
+    
+}

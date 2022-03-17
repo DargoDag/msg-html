@@ -1,0 +1,97 @@
+.swiper-container.--banks .swiper-slide-next + div + div + div + div + div, .swiper-slide.swiper-slide-prev {opacity: 1;pointer-events: all;}
+
+.swiper-pagination.--banks span {
+    width: 1rem;
+    display: block;
+}
+
+.type-carusel__btn.--banks {
+    position: relative;
+    right: inherit;
+    left: inherit;
+    top: inherit;
+    height: 3.5rem;
+    width: 3.5rem;
+    margin: 0;
+    background-color: var(--color__fill-4);
+    box-shadow: none;
+}
+
+.type-carusel__btn.--banks.swiper-button-disabled {
+    opacity: 1 !important;
+}
+
+.type-carusel__btn-icon {
+    width: 1.375rem;
+    height: 1.375rem;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: ease all .24s;
+}
+
+.type-carusel__btn.--banks.swiper-button-disabled .type-carusel__btn-icon {
+    opacity: .24;
+}
+
+.swiper-pagination.--banks {
+    display: flex;
+    align-items: center;
+    font-size: 1.25rem !important;
+    line-height: 1.75rem;
+}
+
+.type-carusel__all-btn {
+    border-radius: 3.5rem;
+    padding: 0 2rem;
+    font-size: 1.125rem;
+    line-height: 1.875rem;
+    font-weight: 500 !important;
+}
+
+.type-carusel__btn.--banks.swiper-button-prev:after, .swiper-rtl .swiper-button-next:after {
+    display: none;
+}
+
+.type-carusel__btn.--banks.swiper-button-next:after, .swiper-rtl .swiper-button-prev:after {
+    display: none;
+}
+
+.bank-item {
+    background-color: #fff;
+    border-radius: 1.5rem;
+    height: 8.125rem;
+    padding: 0 2rem;
+}
+
+.bank-item__thumb {
+    display: flex;
+}
+
+.banks-carousel .swiper-slide {
+    height: auto !important;
+}
+
+.banks-carousel .swiper-container {
+    height: 100% !important;
+}
+
+.bank-item__thumb img {
+    width: auto;
+    max-width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.banks-carousel .type-carusel__swiper {
+    height: 20rem;
+    filter: drop-shadow(0 1rem 3rem rgba(0, 0, 0, 0.06));
+}
+
+@media (max-width: 989px) {
+
+    .banks-carousel .type-carusel__swiper {
+        height: auto;
+    }
+
+}

@@ -1,0 +1,48 @@
+.video-recall {
+    border: 1px solid #D9D9D9;
+    border-radius: 1.5rem;
+    padding: 2rem 3rem 2.5rem 3rem;
+    overflow: hidden;
+    height: 100%;
+}
+
+.video-recall .type-carusel__desc {
+    opacity: .8;
+}
+
+.video-recall .type-carusel__all-btn {
+    height: 3rem;
+    padding: 0 1.5rem;
+}
+
+.video-recall .type-carusel__head-wrap {
+    border-bottom: 1px solid rgb(217 217 217 / 60%);
+}
+
+.recall-tem {
+    background-color: #161616;
+    border-radius: .75rem;
+    overflow: hidden;
+    width: 100%;
+    height: 19.25rem;
+}
+
+.review-tem iframe {
+    width: 100%;
+    height: 100%;
+}
+
+.video-recall .swiper-container.--products .swiper-slide-next + div + div + div, .video-recall .swiper-container.--products .swiper-slide.swiper-slide-prev {
+    opacity: 1;
+    pointer-events: all;
+}
+
+.video-recall .type-carusel__btn.--products {
+    width: 3rem;
+    height: 3rem;
+}
+
+.video-recall .type-carusel__btn-icon {
+    width: 1.125rem;
+    height: 1.125rem;
+}

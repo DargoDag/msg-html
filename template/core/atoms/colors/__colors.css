@@ -1,0 +1,32 @@
+:root {
+    /* main */
+    --color__dark: #333333;
+    --color__white:     #ffffff;
+    
+    /* fill */
+    --color__fill-1: #E51A1E;
+    --color__fill-2:    #F52536;
+    --color__fill-3:    #53EAE0;
+    --color__fill-4: #F5F5F5;
+    --color__fill-1-h: #AC1316;
+    --color__fill-2-h: #B81C29;
+    --color__fill-3-h:  #4AD1C8;
+    --color__fill-4-h: #efefef;
+    --color__fill-1-a: #720D0F;
+    --color__fill-2-a: #7A121B;
+    --color__fill-3-a:  #389E97;
+    --color__fill-4-a: #b3b3b3;
+
+
+    /* border */
+    --color__border: #D9D9D9;
+
+    /* text */
+    --color__text-1:    #000000;
+    --color__text-2: #7A7A7A;
+    --color__text-3: #B4B4B4;
+
+    /* gray */
+    --color__gray-1: #F5F5F9;
+    --color__gray-2: #FAFAFC;
+}

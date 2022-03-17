@@ -1,0 +1,21 @@
+@media screen and (max-width: 1199px) {
+
+    .installment-item {
+        max-width: 100% !important;
+        height: auto;
+        margin: 0 !important;
+    }
+
+    .installment-items {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 1.5rem;
+        align-items: stretch;
+    }
+
+    .content__banner-title {
+        font-size: 4rem;
+        line-height: 4.5rem;
+    }
+
+}
